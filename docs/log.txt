@@ -704,7 +704,7 @@ rust 1.39.0 is already installed but outdated (so it will be upgraded).
 ######################################################################## 100.0%
 ==> Fetching pkg-config
 ==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/pkg-config-0.29.2_3.big_sur.bottle.tar.g
-Already downloaded: /Users/peterzhang/Library/Caches/Homebrew/downloads/f409843d9115ba193cb194ea9e6ad7d32c2eb5aa5ee564902d15676fe2f9aefd--pkg-config-0.29.2_3.big_sur.bottle.tar.gz
+Already downloaded: ~/Library/Caches/Homebrew/downloads/f409843d9115ba193cb194ea9e6ad7d32c2eb5aa5ee564902d15676fe2f9aefd--pkg-config-0.29.2_3.big_sur.bottle.tar.gz
 ==> Fetching rust
 ==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/rust-1.67.1.big_sur.bottle.tar.gz
 ######################################################################## 100.0%
@@ -1067,7 +1067,7 @@ Warning: These files were overwritten during the `brew link` step:
 /usr/local/lib/libjpeg.dylib
 /usr/local/lib/pkgconfig/libjpeg.pc
 
-They have been backed up to: /Users/peterzhang/Library/Caches/Homebrew/Backup
+They have been backed up to: ~/Library/Caches/Homebrew/Backup
 ==> Summary
 🍺  /usr/local/Cellar/jpeg-turbo/2.1.5.1: 44 files, 3.9MB
 ==> Installing php dependency: giflib
@@ -1081,7 +1081,7 @@ They have been backed up to: /Users/peterzhang/Library/Caches/Homebrew/Backup
 Warning: These files were overwritten during the `brew link` step:
 /usr/local/lib/libImath.dylib
 
-They have been backed up to: /Users/peterzhang/Library/Caches/Homebrew/Backup
+They have been backed up to: ~/Library/Caches/Homebrew/Backup
 ==> Summary
 🍺  /usr/local/Cellar/imath/3.1.6: 49 files, 927.0KB
 ==> Installing php dependency: libtiff
@@ -1114,7 +1114,7 @@ Warning: These files were overwritten during the `brew link` step:
 /usr/local/lib/libIex.dylib
 /usr/local/lib/libIlmThread.dylib
 
-They have been backed up to: /Users/peterzhang/Library/Caches/Homebrew/Backup
+They have been backed up to: ~/Library/Caches/Homebrew/Backup
 ==> Summary
 🍺  /usr/local/Cellar/openexr/3.1.5: 194 files, 6.0MB
 ==> Installing php dependency: webp
@@ -1366,7 +1366,7 @@ Removing: /usr/local/Cellar/libzip/1.8.0_1... (144 files, 772.4KB)
 Removing: /usr/local/Cellar/lz4/1.9.3... (22 files, 657.8KB)
 Removing: /usr/local/Cellar/oniguruma/6.9.7.1... (14 files, 1.4MB)
 Removing: /usr/local/Cellar/openexr/2.2.0... (131 files, 11.2MB)
-Removing: /Users/peterzhang/Library/Caches/Homebrew/openjdk--17... (180.1MB)
+Removing: ~/Library/Caches/Homebrew/openjdk--17... (180.1MB)
 Removing: /usr/local/Cellar/openssl@1.1/1.1.1l_1... (8,073 files, 18.5MB)
 Removing: /usr/local/Cellar/openssl/1.0.1j... (1,236 files, 10.6MB)
 Removing: /usr/local/Cellar/openssl/1.0.1j_1... (1,236 files, 10.7MB)
@@ -1386,7 +1386,7 @@ Removing: /usr/local/Cellar/webp/1.2.1... (39 files, 2.4MB)
 Removing: /usr/local/Cellar/xz/5.2.5... (95 files, 1.4MB)
 Removing: /usr/local/Cellar/zlib/1.2.8... (11 files, 361.7KB)
 Removing: /usr/local/Cellar/zstd/1.5.0... (31 files, 3.5MB)
-Removing: /Users/peterzhang/Library/Logs/Homebrew/openjdk... (64B)
+Removing: ~/Library/Logs/Homebrew/openjdk... (64B)
 Removing: /usr/local/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc... (279B)
 Removing: /usr/local/lib/python3.6/site-packages/__pycache__/sitecustomize.cpython-36.pyc... (1.3KB)
 Removing: /usr/local/lib/python3.7/site-packages/__pycache__/easy_install.cpython-37.pyc... (283B)
@@ -1490,3 +1490,82 @@ Module build failed (from ./node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs
 Error: Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (111)
 For more information on which environments are supported please see:
 https://github.com/sass/node-sass/releases/tag/v4.14.1
+
+
+brew install node@14
+==> Fetching node@14
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/node%4014-14.21.2_1.big_sur.bottle.tar.g
+######################################################################## 100.0%
+==> Pouring node@14-14.21.2_1.big_sur.bottle.tar.gz
+==> Caveats
+node@14 is keg-only, which means it was not symlinked into /usr/local,
+because this is an alternate version of another formula.
+
+If you need to have node@14 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find node@14 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/node@14/lib"
+  export CPPFLAGS="-I/usr/local/opt/node@14/include"
+
+==> Summary
+🍺  /usr/local/Cellar/node@14/14.21.2_1: 3,954 files, 55.6MB
+==> Running `brew cleanup node@14`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+
+ npm version
+{
+  'friday-admin': '1.0.0',
+  npm: '9.4.0',
+  node: '19.6.0',
+  v8: '10.8.168.25-node.11',
+  uv: '1.44.2',
+  zlib: '1.2.11',
+  brotli: '1.0.9',
+  ares: '1.19.0',
+  modules: '111',
+  nghttp2: '1.51.0',
+  napi: '8',
+  llhttp: '8.1.0',
+  uvwasi: '0.0.15',
+  acorn: '8.8.2',
+  simdutf: '3.1.0',
+  undici: '5.16.0',
+  openssl: '1.1.1s',
+  cldr: '42.0',
+  icu: '72.1',
+  tz: '2022e',
+  unicode: '15.0'
+}
+
+node --version
+v14.21.2
+
+npm version
+{
+  'friday-admin': '1.0.0',
+  npm: '6.14.17',
+  ares: '1.18.1',
+  brotli: '1.0.9',
+  cldr: '42.0',
+  icu: '72.1',
+  llhttp: '2.1.6',
+  modules: '83',
+  napi: '8',
+  nghttp2: '1.51.0',
+  node: '14.21.2',
+  openssl: '1.1.1s',
+  tz: '2022e',
+  unicode: '15.0',
+  uv: '1.44.2',
+  v8: '8.4.371.23-node.88',
+  zlib: '1.2.11'
+}
+
+ error  in ./src/components/Breadcrumb/index.vue?vue&type=style&index=0&id=b50ef614&rel=stylesheet%2Fscss&lang=scss&scoped=true&
+
+Module build failed (from ./node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs.js):
+Error: Missing binding ~/dev/suomitek/git/beijing-tower-friday/friday-admin/node_modules/_node-sass@4.14.1@node-sass/vendor/darwin-x64-83/binding.node
+Node Sass could not find a binding for your current environment: OS X 64-bit with Node.js 14.x
+
