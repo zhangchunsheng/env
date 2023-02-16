@@ -1,0 +1,1492 @@
+brew update
+Error: Fetching /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core failed!
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/bottles-portable-ruby/portable-ruby-2.6.8_1.el_capitan.bottle.tar.gz
+####################################################################################################### 100.0%
+==> Pouring portable-ruby-2.6.8_1.el_capitan.bottle.tar.gz
+Updated 1 tap (homebrew/cask).
+==> New Casks
+86box                                                   microsoft-onenote
+abbyy-finereader-pdf                                    mighty-mike
+accord                                                  miln-movie-splitter
+adze                                                    miniwol
+aethersx2                                               mints
+agi                                                     mixed-in-key-live
+akiflow                                                 mixin
+aliwangwang                                             mmhmm-studio
+alpha                                                   mochi-diffusion
+amazon-luna                                             moderndeck
+ankerslicer                                             monofocus
+ankerwork                                               moradownloader
+anypointstudio                                          mp3tag
+anytype                                                 mx-power-gadget
+apifox                                                  mysteriumvpn
+apipost                                                 nanoem
+app-fair                                                nanosaur2
+appflowy                                                neat
+appium-inspector                                        neovide
+aptakube                                                nitro-pdf-pro
+arc                                                     nordlayer
+archy                                                   northern-softworks-cache-cleaner
+arctype                                                 notch-simulator
+arduino-ide                                             notesnook
+ares                                                    notion-enhanced
+astrofox                                                nym-wallet
+athens                                                  oka-unarchiver
+attachecase                                             onekey
+audiorelay                                              only-switch
+avifquicklook                                           openbci
+bambu-studio                                            opencore-patcher
+banana-cake-pop                                         openin
+battery                                                 openlens
+beast2                                                  openrgb
+betterandbetter                                         openshift-client
+betterdisplay                                           opensoundmeter
+bettermouse                                             orangedrangon-android-messages
+bike                                                    orion
+bili-downloader                                         orka-vm-tools
+bing-wallpaper                                          oso-cloud
+binocs                                                  osp-tracker
+black-light                                             osu
+black-light-pro                                         overt
+bluebubbles                                             oxwu
+blurscreen                                              paddle-easydl
+bookwright                                              panwriter
+bridge                                                  paperpile
+buzz                                                    paragon-camptune
+cad-assistant                                           phpwebstudy
+calhash                                                 picfindr
+capslocknodelay                                         pictureview
+cardinal                                                pieces-cli
+cardpresso                                              pingnoo
+catoclient                                              planet
+centered                                                playcover-community
+chipmunk                                                playdate-simulator
+chromium-gost                                           plex-htpc
+cider                                                   plugdata
+cisdem-duplicate-finder                                 pluginval
+citrix-workspace                                        plus42-binary
+cleaneronepro                                           plus42-decimal
+cleanmymac-zh                                           podman-desktop
+clickshare                                              pokemon-tcg-live
+clips-ide                                               poker-copilot
+cloud189                                                polypad
+clover                                                  polypane
+cnkiexpress                                             postman-agent
+codux                                                   postman-cli
+coherence-x                                             prismlauncher
+color-studio                                            projector
+confectionery                                           protokol
+confluent-cli                                           protonmail-import-export
+contour                                                 prowlarr
+copilot-for-xcode                                       psst
+creality-slicer                                         qspace-pro
+cro-mag-rally                                           qth
+cron                                                    quarto
+cursr                                                   quiet-reader
+datasette                                               quit-all
+dataspell                                               qwerty-fr
+dbeaverlite                                             random-mouse-clicker
+dbeaverultimate                                         rapidapi
+dbgate                                                  readdle-spark
+dcp-o-matic-combiner                                    readmoreading
+dcp-o-matic-disk-writer                                 readwise-ibooks
+dcp-o-matic-editor                                      readyapi
+dcp-o-matic-playlist-editor                             rectangle-pro
+decentr                                                 redquits
+descript                                                reflect
+detail                                                  reflex
+devcleaner                                              remotehamradio
+devsquadron                                             restfox
+devtoys                                                 restream-chat
+diffusionbee                                            reverso
+direqual                                                rive
+dixa                                                    rnnoise
+dmg-canvas                                              roam-research
+doll                                                    rockboxutility
+doughnut                                                roonbridge
+douyin                                                  runcat-plugins-manager
+drawpile                                                rustdesk
+duckduckgo                                              rwts-pdfwriter
+duplicacy-cli                                           sanesidebuttons
+ecamm-live                                              scene-maestro
+egnyte                                                  scenica-player
+electrum-grs                                            schildichat
+elephas                                                 scroll
+elephicon                                               scrolla
+eliot                                                   serene
+eloquent                                                shapr3d
+emmetapp                                                shop-different
+equinox                                                 simplemind
+espanso                                                 sioyek
+farcaster                                               sitala
+fastmarks                                               slab
+ferdium                                                 slack-cli
+fertigt-slate                                           smartreporter-free
+filen                                                   sms-plus
+finalshell                                              snapmaker-luban
+finch                                                   sol
+fishing-funds                                           sonic-lineup
+fleet                                                   sonixd
+fly-key                                                 soothe2
+flycast                                                 soulver-cli
+fmail2                                                  soundtoys
+folder-colorizer                                        spaceid
+forkgram-telegram                                       spike
+foxit-pdf-editor                                        spline
+free-gpgmail                                            spotify4bigsur
+fresh                                                   spybuster
+fxfactory                                               squash
+gama                                                    ssdreporter-free
+gama-jdk                                                steam-plus-plus
+gamemaker                                               superkey
+gamma-control                                           superlist
+gaphor                                                  supermjograph
+gcc-aarch64-embedded                                    supernotes
+gdevelop                                                surge-xt
+genesis-plus                                            swift-quit
+gittyup                                                 swiftcord
+glance-chamburr                                         tablecruncher
+go-shiori                                               tageditor
+goxel                                                   tailscale
+gpgfrontend                                             tdr-kotelnikov
+grammarly-desktop                                       tdr-nova
+gridtracker                                             tdr-vos-slickeq
+groestlcoin-core                                        teamspeak-client
+gyroflow                                                tempbox
+hackolade                                               tentacle-sync-studio
+hdfview                                                 texifier
+headlamp                                                textsniper
+height                                                  thangs-sync
+hepta                                                   the-watcher
+heroic                                                  thinlinc-client
+hidock                                                  threema-work
+hookmark                                                ti-smartview-ce-for-the-ti-84-plus-family
+hostsx                                                  tidgi
+html-mangareader                                        tl-legacy
+httpie                                                  tmpdisk
+icon-shelf                                              todesk
+iconchanger                                             tomatobar
+ideamaker                                               topaz-denoise-ai
+imagex                                                  topaz-gigapixel-ai
+imhex                                                   topaz-sharpen-ai
+inkstitch                                               topaz-video-ai
+input-source-pro                                        tqsl
+interact-scratchpad                                     trex
+iptvnator                                               trivial
+iqmol                                                   trunk-io
+irpf2022                                                tsh
+izotope-product-portal                                  twitch-studio
+jetbrains-gateway                                       typcn-bilibili
+jpc-qlcolorcode                                         ui
+jquake                                                  ujam
+jt-bridge                                               ukrainian-typographic-keyboard
+juice                                                   ulbow
+jump-desktop-connect                                    unicopedia-plus
+kdenlive                                                unite-phone
+kdrive                                                  universal-android-debloater
+keet                                                    unraid-usb-creator
+keysafe                                                 v2ray-unofficial
+kigb                                                    valkyrie
+kindavim                                                ved
+kmeet                                                   vero
+kopiaui                                                 vertcoin-core
+laconvolver                                             videoduke
+languagetool                                            vieb
+lapce                                                   vincelwt-chatgpt
+lectrote                                                virtual-desktop-streamer
+lemonlime                                               virtualbuddy
+libcblite                                               vivid
+libcblite-community                                     vk-calls
+linearmouse                                             vlc-setup
+livebook                                                volley
+localxpose                                              vpn-by-google-one
+lookingglassbridge                                      vpn-tracker-365
+lookingglassstudio                                      waltr-heic-converter
+lotus                                                   warp
+ludwig                                                  watchfacestudio
+lunacy                                                  weektodo
+lunasea                                                 windterm
+macast                                                  wirecast
+macforge                                                wolai
+macloggerdx                                             wooshy
+macrorecorder                                           workman
+mail-assistant                                          workspace-one-intelligent-hub
+mana-security                                           wow
+manila                                                  wpsoffice-cn
+manymc                                                  write
+manyverse                                               xemu
+mbcord                                                  xiv-on-mac
+medis                                                   xprocheck
+mega                                                    xstation5
+mellel                                                  yandex-music-unofficial
+menubarx                                                yattee
+metadatics                                              yousician
+miaoyan                                                 youtype
+microsoft-office-businesspro                            yubihsm2-sdk
+==> Outdated Formulae
+adns                  gnutls                libidn                nettle                ruby
+apache-flink          httpd                 libksba               nghttp2               rust
+aria2                 ilmbase               libtasn1              numpy                 shadowsocks-libev
+boost                 imagemagick           libusb                opencv                telnet
+cmake                 jansson               libxml2               openexr               unbound
+dnsmasq               jemalloc              libxmp                openssl@3             wget
+eigen                 json-c                libyaml               p11-kit               x264
+ffmpeg                kotlin                maven                 p7zip                 xmp
+geoip                 lame                  mbedtls               pinentry              xvid
+git-lfs               libassuan             mysql                 pkg-config            yarn
+gnu-sed               libev                 mysql-connector-c++   popt                  zlib
+gnu-tar               libgcrypt             mysql@5.6             rabbitmq
+gnupg                 libgpg-error          mysql@5.7             rabbitmq-c
+
+You have 63 outdated formulae installed.
+You can upgrade them with brew upgrade
+or list them with brew outdated.
+
+
+brew update
+Updated 2 taps (homebrew/core1 and homebrew/services).
+==> New Formulae
+homebrew/core1/aarch64-elf-binutils                     homebrew/core1/llama
+homebrew/core1/aarch64-elf-gcc                          homebrew/core1/llvm@13
+homebrew/core1/abi-compliance-checker                   homebrew/core1/llvm@14
+homebrew/core1/abi-dumper                               homebrew/core1/lmfit
+homebrew/core1/acl                                      homebrew/core1/lndir
+homebrew/core1/adamstark-audiofile                      homebrew/core1/localtunnel
+homebrew/core1/age-plugin-yubikey                       homebrew/core1/ltex-ls
+homebrew/core1/agg                                      homebrew/core1/lua-language-server
+homebrew/core1/akku                                     homebrew/core1/luacheck
+homebrew/core1/all-repos                                homebrew/core1/luau
+homebrew/core1/alpscore                                 homebrew/core1/lucky-commit
+homebrew/core1/ancient                                  homebrew/core1/lunar-date
+homebrew/core1/ansible-language-server                  homebrew/core1/m1ddc
+homebrew/core1/ansible@6                                homebrew/core1/mabel
+homebrew/core1/antidote                                 homebrew/core1/maclaunch
+homebrew/core1/apophenia                                homebrew/core1/macpine
+homebrew/core1/aptos                                    homebrew/core1/mailsy
+homebrew/core1/aribb24                                  homebrew/core1/manifest-tool
+homebrew/core1/arkade                                   homebrew/core1/mapproxy
+homebrew/core1/arxiv_latex_cleaner                      homebrew/core1/mariadb@10.6
+homebrew/core1/ascii2binary                             homebrew/core1/mariadb@10.7
+homebrew/core1/astgen                                   homebrew/core1/mariadb@10.8
+homebrew/core1/astro                                    homebrew/core1/mariadb@10.9
+homebrew/core1/asyncapi                                 homebrew/core1/markdown-toc
+homebrew/core1/atlas                                    homebrew/core1/markdownlint-cli2
+homebrew/core1/atmos                                    homebrew/core1/marksman
+homebrew/core1/autocannon                               homebrew/core1/mbt
+homebrew/core1/autocorrect                              homebrew/core1/mbw
+homebrew/core1/aws-auth                                 homebrew/core1/mcap
+homebrew/core1/aws-nuke                                 homebrew/core1/mcfly
+homebrew/core1/aws-sam-cli                              homebrew/core1/mdless
+homebrew/core1/aws2-wrap                                homebrew/core1/mdzk
+homebrew/core1/aztfy                                    homebrew/core1/meek
+homebrew/core1/bartib                                   homebrew/core1/melody
+homebrew/core1/bash-language-server                     homebrew/core1/mesheryctl
+homebrew/core1/bazarr                                   homebrew/core1/metalang99
+homebrew/core1/bdftopcf                                 homebrew/core1/metals
+homebrew/core1/berkeley-db@5                            homebrew/core1/metview
+homebrew/core1/bfgminer                                 homebrew/core1/micro_inetd
+homebrew/core1/biber                                    homebrew/core1/micromamba
+homebrew/core1/bindgen                                  homebrew/core1/mimirtool
+homebrew/core1/bk                                       homebrew/core1/minimap2
+homebrew/core1/bkt                                      homebrew/core1/mist
+homebrew/core1/boost@1.76                               homebrew/core1/mkfontscale
+homebrew/core1/bore-cli                                 homebrew/core1/mkp224o
+homebrew/core1/bossa                                    homebrew/core1/mle
+homebrew/core1/brev                                     homebrew/core1/mold
+homebrew/core1/brigade-cli                              homebrew/core1/mongodb-atlas-cli
+homebrew/core1/brpc                                     homebrew/core1/monika
+homebrew/core1/btop                                     homebrew/core1/mpfrcx
+homebrew/core1/btrfs-progs                              homebrew/core1/mprocs
+homebrew/core1/buf                                      homebrew/core1/mqttui
+homebrew/core1/burst                                    homebrew/core1/mt32emu
+homebrew/core1/busted                                   homebrew/core1/mu-repo
+homebrew/core1/bvm                                      homebrew/core1/muon
+homebrew/core1/bwidget                                  homebrew/core1/mxnet
+homebrew/core1/bzip3                                    homebrew/core1/mycorrhiza
+homebrew/core1/c                                        homebrew/core1/mypaint-brushes
+homebrew/core1/c2rust                                   homebrew/core1/naga-cli
+homebrew/core1/camlp-streams                            homebrew/core1/nali
+homebrew/core1/canfigger                                homebrew/core1/naml
+homebrew/core1/cargo-about                              homebrew/core1/nap
+homebrew/core1/cargo-bundle                             homebrew/core1/nb
+homebrew/core1/cargo-crev                               homebrew/core1/ncnn
+homebrew/core1/cargo-deny                               homebrew/core1/nemu
+homebrew/core1/cargo-depgraph                           homebrew/core1/neovide
+homebrew/core1/cargo-make                               homebrew/core1/nerdctl
+homebrew/core1/cargo-nextest                            homebrew/core1/netcdf-cxx
+homebrew/core1/cargo-release                            homebrew/core1/netcdf-fortran
+homebrew/core1/cargo-udeps                              homebrew/core1/netmask
+homebrew/core1/cargo-zigbuild                           homebrew/core1/nftables
+homebrew/core1/cascadia                                 homebrew/core1/nickel
+homebrew/core1/cava                                     homebrew/core1/nmrpflash
+homebrew/core1/cbindgen                                 homebrew/core1/node@16
+homebrew/core1/cdebug                                   homebrew/core1/node@18
+homebrew/core1/cdsclient                                homebrew/core1/nsh
+homebrew/core1/censys                                   homebrew/core1/numdiff
+homebrew/core1/cfonts                                   homebrew/core1/nuraft
+homebrew/core1/cgif                                     homebrew/core1/nvchecker
+homebrew/core1/chain-bench                              homebrew/core1/oak
+homebrew/core1/charmcraft                               homebrew/core1/oauth2c
+homebrew/core1/check-jsonschema                         homebrew/core1/objconv
+homebrew/core1/checkmake                                homebrew/core1/observerward
+homebrew/core1/chroma                                   homebrew/core1/ocl-icd
+homebrew/core1/circumflex                               homebrew/core1/ocm
+homebrew/core1/clang-build-analyzer                     homebrew/core1/octosql
+homebrew/core1/clang-format@11                          homebrew/core1/odo-dev
+homebrew/core1/clitest                                  homebrew/core1/oh-my-posh
+homebrew/core1/cloudflare-quiche                        homebrew/core1/ohdear-cli
+homebrew/core1/cloudflare-wrangler2                     homebrew/core1/okta-awscli
+homebrew/core1/cloudflared                              homebrew/core1/onlykey-agent
+homebrew/core1/cloudiscovery                            homebrew/core1/open62541
+homebrew/core1/cloudprober                              homebrew/core1/opencl-clhpp-headers
+homebrew/core1/clusterawsadm                            homebrew/core1/opencl-headers
+homebrew/core1/cmctl                                    homebrew/core1/opencl-icd-loader
+homebrew/core1/cntb                                     homebrew/core1/opendht
+homebrew/core1/cocogitto                                homebrew/core1/openjdk@17
+homebrew/core1/code-cli                                 homebrew/core1/openliberty-jakartaee9
+homebrew/core1/cog                                      homebrew/core1/openliberty-webprofile9
+homebrew/core1/commitlint                               homebrew/core1/opentelemetry-cpp
+homebrew/core1/compiledb                                homebrew/core1/openvi
+homebrew/core1/conda-zsh-completion                     homebrew/core1/openvino
+homebrew/core1/conman                                   homebrew/core1/osv-scanner
+homebrew/core1/copa                                     homebrew/core1/ouch
+homebrew/core1/copier                                   homebrew/core1/pacmc
+homebrew/core1/corepack                                 homebrew/core1/page
+homebrew/core1/corrosion                                homebrew/core1/pam-reattach
+homebrew/core1/countdown                                homebrew/core1/pandemics
+homebrew/core1/coursier                                 homebrew/core1/papilo
+homebrew/core1/cpi                                      homebrew/core1/pari-nflistdata
+homebrew/core1/cpp-httplib                              homebrew/core1/pax
+homebrew/core1/cpptoml                                  homebrew/core1/payload-dumper-go
+homebrew/core1/cpuid                                    homebrew/core1/pbzx
+homebrew/core1/cql-proxy                                homebrew/core1/pdf-diff
+homebrew/core1/create-api                               homebrew/core1/pdf2djvu
+homebrew/core1/crfsuite                                 homebrew/core1/pferd
+homebrew/core1/cri-tools                                homebrew/core1/pg_cron
+homebrew/core1/criterion                                homebrew/core1/pg_partman
+homebrew/core1/crytic-compile                           homebrew/core1/pget
+homebrew/core1/csview                                   homebrew/core1/pgsync
+homebrew/core1/ctlptl                                   homebrew/core1/php@8.0
+homebrew/core1/curlcpp                                  homebrew/core1/php@8.1
+homebrew/core1/cwb3                                     homebrew/core1/phrase-cli
+homebrew/core1/cxgo                                     homebrew/core1/pinocchio
+homebrew/core1/czg                                      homebrew/core1/pinot
+homebrew/core1/d2                                       homebrew/core1/pint
+homebrew/core1/dagger                                   homebrew/core1/pip-audit
+homebrew/core1/dart-sdk                                 homebrew/core1/pip-tools
+homebrew/core1/datafusion                               homebrew/core1/pipdeptree
+homebrew/core1/datatype99                               homebrew/core1/pipe-rename
+homebrew/core1/dbml-cli                                 homebrew/core1/pixie
+homebrew/core1/ddcutil                                  homebrew/core1/pixiewps
+homebrew/core1/ddh                                      homebrew/core1/pkcs11-tools
+homebrew/core1/difftastic                               homebrew/core1/pluto
+homebrew/core1/distrobox                                homebrew/core1/plz-cli
+homebrew/core1/djhtml                                   homebrew/core1/poac
+homebrew/core1/docker-buildx                            homebrew/core1/pocl
+homebrew/core1/doggo                                    homebrew/core1/pocsuite3
+homebrew/core1/dooit                                    homebrew/core1/podman-compose
+homebrew/core1/dotdrop                                  homebrew/core1/podsync
+homebrew/core1/dotnet@6                                 homebrew/core1/pomsky
+homebrew/core1/dpp                                      homebrew/core1/popeye
+homebrew/core1/dronedb                                  homebrew/core1/portablegl
+homebrew/core1/dsda-doom                                homebrew/core1/postgraphile
+homebrew/core1/dsq                                      homebrew/core1/postgresql@15
+homebrew/core1/dstack                                   homebrew/core1/powerman-dockerize
+homebrew/core1/dtm                                      homebrew/core1/primecount
+homebrew/core1/dtrx                                     homebrew/core1/procyon-decompiler
+homebrew/core1/dufs                                     homebrew/core1/protobuf@3
+homebrew/core1/dump1090-mutability                      homebrew/core1/protolint
+homebrew/core1/dumpling                                 homebrew/core1/prowler
+homebrew/core1/dunamai                                  homebrew/core1/proxsuite
+homebrew/core1/dura                                     homebrew/core1/prql-compiler
+homebrew/core1/dynaconf                                 homebrew/core1/prr
+homebrew/core1/dynein                                   homebrew/core1/prs
+homebrew/core1/dynomite                                 homebrew/core1/psysh
+homebrew/core1/easeprobe                                homebrew/core1/purescript-language-server
+homebrew/core1/ecflow-ui                                homebrew/core1/pymol
+homebrew/core1/echidna                                  homebrew/core1/pymupdf
+homebrew/core1/ecoji                                    homebrew/core1/python-build
+homebrew/core1/edencommon                               homebrew/core1/python-gdbm@3.11
+homebrew/core1/editorconfig-checker                     homebrew/core1/python-lsp-server
+homebrew/core1/eget                                     homebrew/core1/python-tk@3.11
+homebrew/core1/elixir-ls                                homebrew/core1/python-typing-extensions
+homebrew/core1/elvis                                    homebrew/core1/python@3.11
+homebrew/core1/emqx                                     homebrew/core1/pyyaml
+homebrew/core1/enex2notion                              homebrew/core1/qbe
+homebrew/core1/enpass-cli                               homebrew/core1/qdmr
+homebrew/core1/envd                                     homebrew/core1/qsv
+homebrew/core1/epinio                                   homebrew/core1/quartz-wm
+homebrew/core1/erigon                                   homebrew/core1/quick-lint-js
+homebrew/core1/erlang@24                                homebrew/core1/quilt-installer
+homebrew/core1/erofs-utils                              homebrew/core1/quran
+homebrew/core1/esphome                                  homebrew/core1/railway
+homebrew/core1/etcd-cpp-apiv3                           homebrew/core1/rdb
+homebrew/core1/evernote-backup                          homebrew/core1/redis@6.2
+homebrew/core1/evtx                                     homebrew/core1/regula
+homebrew/core1/fastfec                                  homebrew/core1/release-it
+homebrew/core1/fastfetch                                homebrew/core1/req
+homebrew/core1/fastnetmon                               homebrew/core1/reshape
+homebrew/core1/fastp                                    homebrew/core1/retdec
+homebrew/core1/fb303                                    homebrew/core1/ripsecrets
+homebrew/core1/fbthrift                                 homebrew/core1/rizin
+homebrew/core1/fclones                                  homebrew/core1/rnr
+homebrew/core1/fdroidcl                                 homebrew/core1/roapi
+homebrew/core1/felinks                                  homebrew/core1/rome
+homebrew/core1/fend                                     homebrew/core1/rospo
+homebrew/core1/ferium                                   homebrew/core1/rpki-client
+homebrew/core1/ffmpeg@4                                 homebrew/core1/rslint
+homebrew/core1/fgbio                                    homebrew/core1/rtx
+homebrew/core1/fisher                                   homebrew/core1/ruby@3.0
+homebrew/core1/flagd                                    homebrew/core1/ruby@3.1
+homebrew/core1/flix                                     homebrew/core1/ruff
+homebrew/core1/flock                                    homebrew/core1/rune
+homebrew/core1/flyctl                                   homebrew/core1/rure
+homebrew/core1/fnlfmt                                   homebrew/core1/rush-parallel
+homebrew/core1/fnt                                      homebrew/core1/rustfmt
+homebrew/core1/fonts-encodings                          homebrew/core1/salt-lint
+homebrew/core1/fortls                                   homebrew/core1/sambamba
+homebrew/core1/fortran-language-server                  homebrew/core1/sapling
+homebrew/core1/fourmolu                                 homebrew/core1/scala@2.13
+homebrew/core1/fprettify                                homebrew/core1/scalingo
+homebrew/core1/fred                                     homebrew/core1/schemathesis
+homebrew/core1/freebayes                                homebrew/core1/scriptisto
+homebrew/core1/fuego-firestore                          homebrew/core1/sdl2_sound
+homebrew/core1/fypp                                     homebrew/core1/seaweedfs
+homebrew/core1/gator                                    homebrew/core1/secp256k1
+homebrew/core1/gaze                                     homebrew/core1/seven-kingdoms
+homebrew/core1/gcc@11                                   homebrew/core1/sevenzip
+homebrew/core1/gcem                                     homebrew/core1/sextractor
+homebrew/core1/gdrive-downloader                        homebrew/core1/sftpgo
+homebrew/core1/gebug                                    homebrew/core1/sgn
+homebrew/core1/gemgen                                   homebrew/core1/sgr
+homebrew/core1/geometry                                 homebrew/core1/shaderc
+homebrew/core1/gf                                       homebrew/core1/shadowsocks-rust
+homebrew/core1/ghc@8.10                                 homebrew/core1/sigrok-cli
+homebrew/core1/ghc@9.2                                  homebrew/core1/simdutf
+homebrew/core1/ghcup                                    homebrew/core1/skaffold@1.39
+homebrew/core1/ghorg                                    homebrew/core1/skeema
+homebrew/core1/gi-docgen                                homebrew/core1/slither-analyzer
+homebrew/core1/git-branchless                           homebrew/core1/smap
+homebrew/core1/git-codereview                           homebrew/core1/smug
+homebrew/core1/git-delete-merged-branches               homebrew/core1/snakefmt
+homebrew/core1/git-machete                              homebrew/core1/snapcast
+homebrew/core1/git-svn                                  homebrew/core1/sniffer
+homebrew/core1/git-sync                                 homebrew/core1/sniffnet
+homebrew/core1/git-workspace                            homebrew/core1/snowball
+homebrew/core1/gitlab-ci-local                          homebrew/core1/snowflake
+homebrew/core1/glibc@2.13                               homebrew/core1/socket_vmnet
+homebrew/core1/glider                                   homebrew/core1/solargraph
+homebrew/core1/gnustep-base                             homebrew/core1/solc-select
+homebrew/core1/go-camo                                  homebrew/core1/sophus
+homebrew/core1/go-critic                                homebrew/core1/soplex
+homebrew/core1/go-task                                  homebrew/core1/souffle
+homebrew/core1/go@1.17                                  homebrew/core1/spago
+homebrew/core1/go@1.18                                  homebrew/core1/spdx-sbom-generator
+homebrew/core1/goawk                                    homebrew/core1/spectral-cli
+homebrew/core1/gobackup                                 homebrew/core1/speedbump
+homebrew/core1/goctl                                    homebrew/core1/spek
+homebrew/core1/gokart                                   homebrew/core1/spidermonkey@78
+homebrew/core1/gokey                                    homebrew/core1/spirv-headers
+homebrew/core1/goplus                                   homebrew/core1/spr
+homebrew/core1/goproxy                                  homebrew/core1/sql-language-server
+homebrew/core1/gops                                     homebrew/core1/sqlcmd
+homebrew/core1/got                                      homebrew/core1/sqlfluff
+homebrew/core1/gotify                                   homebrew/core1/sqls
+homebrew/core1/gradle@7                                 homebrew/core1/sse2neon
+homebrew/core1/grafana-agent                            homebrew/core1/sshs
+homebrew/core1/grammarly-languageserver                 homebrew/core1/stackql
+homebrew/core1/grantlee                                 homebrew/core1/stanc3
+homebrew/core1/graphqxl                                 homebrew/core1/standard
+homebrew/core1/grayskull                                homebrew/core1/statix
+homebrew/core1/groestlcoin                              homebrew/core1/steampipe
+homebrew/core1/gst-plugins-rs                           homebrew/core1/stencil
+homebrew/core1/guile-gnutls                             homebrew/core1/stepci
+homebrew/core1/gum                                      homebrew/core1/stuffbin
+homebrew/core1/has                                      homebrew/core1/stylelint
+homebrew/core1/hatch                                    homebrew/core1/stylish-haskell
+homebrew/core1/helix                                    homebrew/core1/svt-av1
+homebrew/core1/helmify                                  homebrew/core1/swiftdraw
+homebrew/core1/hermit                                   homebrew/core1/swiftplantuml
+homebrew/core1/highs                                    homebrew/core1/swtpm
+homebrew/core1/highway                                  homebrew/core1/syft
+homebrew/core1/hof                                      homebrew/core1/symengine
+homebrew/core1/hotbuild                                 homebrew/core1/symlinks
+homebrew/core1/hpp-fcl                                  homebrew/core1/synergy-core
+homebrew/core1/httm                                     homebrew/core1/syslog-ng
+homebrew/core1/http-prompt                              homebrew/core1/tagref
+homebrew/core1/httpyac                                  homebrew/core1/tailscale
+homebrew/core1/huggingface-cli                          homebrew/core1/taplo
+homebrew/core1/hurl                                     homebrew/core1/tarlz
+homebrew/core1/hut                                      homebrew/core1/tart
+homebrew/core1/hwatch                                   homebrew/core1/tbls
+homebrew/core1/hysteria                                 homebrew/core1/tea
+homebrew/core1/hyx                                      homebrew/core1/teku
+homebrew/core1/ibazel                                   homebrew/core1/teller
+homebrew/core1/ifacemaker                               homebrew/core1/temporal
+homebrew/core1/iir1                                     homebrew/core1/tere
+homebrew/core1/ijq                                      homebrew/core1/terminalimageviewer
+homebrew/core1/imap-backup                              homebrew/core1/terraform-lsp
+homebrew/core1/imposm3                                  homebrew/core1/terramate
+homebrew/core1/inih                                     homebrew/core1/testkube
+homebrew/core1/inotify-tools                            homebrew/core1/tetra
+homebrew/core1/install-peerdeps                         homebrew/core1/textidote
+homebrew/core1/interface99                              homebrew/core1/textract
+homebrew/core1/iodine                                   homebrew/core1/tfel
+homebrew/core1/iproute2                                 homebrew/core1/tfmigrate
+homebrew/core1/iptables                                 homebrew/core1/tfproviderlint
+homebrew/core1/iputils                                  homebrew/core1/tfschema
+homebrew/core1/isa-l                                    homebrew/core1/tidy-viewer
+homebrew/core1/ivtools                                  homebrew/core1/tilt
+homebrew/core1/jackett                                  homebrew/core1/tinysearch
+homebrew/core1/jaq                                      homebrew/core1/tl-expected
+homebrew/core1/java-service-wrapper                     homebrew/core1/tlsx
+homebrew/core1/jbang                                    homebrew/core1/toml-test
+homebrew/core1/jdtls                                    homebrew/core1/totp-cli
+homebrew/core1/jellyfish                                homebrew/core1/touca
+homebrew/core1/jj                                       homebrew/core1/toxcore
+homebrew/core1/jless                                    homebrew/core1/tproxy
+homebrew/core1/joker                                    homebrew/core1/tradcpp
+homebrew/core1/jreleaser                                homebrew/core1/treefmt
+homebrew/core1/jscpd                                    homebrew/core1/tremor-runtime
+homebrew/core1/json2tsv                                 homebrew/core1/trezor-bridge
+homebrew/core1/jsonschema                               homebrew/core1/trivy
+homebrew/core1/juicefs                                  homebrew/core1/trzsz
+homebrew/core1/juliaup                                  homebrew/core1/trzsz-go
+homebrew/core1/jupp                                     homebrew/core1/tsduck
+homebrew/core1/kalign                                   homebrew/core1/ttdl
+homebrew/core1/kdoctor                                  homebrew/core1/ttmath
+homebrew/core1/keploy                                   homebrew/core1/tuc
+homebrew/core1/kics                                     homebrew/core1/tuntox
+homebrew/core1/kmod                                     homebrew/core1/tut
+homebrew/core1/koka                                     homebrew/core1/twm
+homebrew/core1/kopia                                    homebrew/core1/twty
+homebrew/core1/kt-connect                               homebrew/core1/txt2man
+homebrew/core1/kube-score                               homebrew/core1/tygo
+homebrew/core1/kubefirst                                homebrew/core1/typewritten
+homebrew/core1/kubekey                                  homebrew/core1/typos-cli
+homebrew/core1/kubent                                   homebrew/core1/ugit
+homebrew/core1/kubernetes-cli@1.22                      homebrew/core1/unisonlang
+homebrew/core1/kubescape                                homebrew/core1/unxip
+homebrew/core1/kubesess                                 homebrew/core1/urlwatch
+homebrew/core1/kubeval                                  homebrew/core1/usbutils
+homebrew/core1/kubevious                                homebrew/core1/utftex
+homebrew/core1/kustomizer                               homebrew/core1/uthash
+homebrew/core1/kuttl                                    homebrew/core1/uutils-findutils
+homebrew/core1/kwctl                                    homebrew/core1/uuu
+homebrew/core1/kwok                                     homebrew/core1/uvg266
+homebrew/core1/kyverno                                  homebrew/core1/valijson
+homebrew/core1/ld-find-code-refs                        homebrew/core1/vcluster
+homebrew/core1/leapp-cli                                homebrew/core1/vectorscan
+homebrew/core1/lemmeknow                                homebrew/core1/verapdf
+homebrew/core1/levant                                   homebrew/core1/vermin
+homebrew/core1/lexicon                                  homebrew/core1/verovio
+homebrew/core1/lgeneral                                 homebrew/core1/vhs
+homebrew/core1/libabw                                   homebrew/core1/video-compare
+homebrew/core1/libadwaita                               homebrew/core1/vile
+homebrew/core1/libapplewm                               homebrew/core1/vineyard
+homebrew/core1/libaribcaption                           homebrew/core1/virt-manager
+homebrew/core1/libbpf                                   homebrew/core1/vkectl
+homebrew/core1/libcython                                homebrew/core1/vsce
+homebrew/core1/libdivide                                homebrew/core1/vtable-dumper
+homebrew/core1/libeatmydata                             homebrew/core1/vulkan-loader
+homebrew/core1/libemf2svg                               homebrew/core1/wasm-micro-runtime
+homebrew/core1/libff                                    homebrew/core1/wasm-tools
+homebrew/core1/libfyaml                                 homebrew/core1/waybackpy
+homebrew/core1/libgrape-lite                            homebrew/core1/wb32-dfu-updater_cli
+homebrew/core1/libgrapheme                              homebrew/core1/weasyprint
+homebrew/core1/libisofs                                 homebrew/core1/webkitgtk
+homebrew/core1/liblbfgs                                 homebrew/core1/webp-pixbuf-loader
+homebrew/core1/liblerc                                  homebrew/core1/websocketpp
+homebrew/core1/libmarpa                                 homebrew/core1/weggli
+homebrew/core1/libnetfilter_conntrack                   homebrew/core1/werf
+homebrew/core1/libnftnl                                 homebrew/core1/west
+homebrew/core1/libnl                                    homebrew/core1/wikibase-cli
+homebrew/core1/libobjc2                                 homebrew/core1/wordle
+homebrew/core1/libplacebo                               homebrew/core1/x86_64-linux-gnu-binutils
+homebrew/core1/librasterlite2                           homebrew/core1/xcdiff
+homebrew/core1/libretls                                 homebrew/core1/xcode-kotlin
+homebrew/core1/libsais                                  homebrew/core1/xcodes
+homebrew/core1/libsigrok                                homebrew/core1/xctesthtmlreport
+homebrew/core1/libsigrokdecode                          homebrew/core1/xdg-ninja
+homebrew/core1/libsolv                                  homebrew/core1/xinit
+homebrew/core1/libsoup@2                                homebrew/core1/xkbcomp
+homebrew/core1/libtpms                                  homebrew/core1/xkcd
+homebrew/core1/libunibreak                              homebrew/core1/xmodmap
+homebrew/core1/liburing                                 homebrew/core1/xorg-server
+homebrew/core1/libvatek                                 homebrew/core1/xpipe
+homebrew/core1/libxcrypt                                homebrew/core1/xq
+homebrew/core1/libxcvt                                  homebrew/core1/xrdb
+homebrew/core1/libxfont2                                homebrew/core1/xwin
+homebrew/core1/libxls                                   homebrew/core1/yamale
+homebrew/core1/libzim                                   homebrew/core1/yaml-language-server
+homebrew/core1/license-eye                              homebrew/core1/yorkie
+homebrew/core1/licensed                                 homebrew/core1/youplot
+homebrew/core1/licenseplist                             homebrew/core1/youtubeuploader
+homebrew/core1/licensor                                 homebrew/core1/zbctl
+homebrew/core1/lighthouse                               homebrew/core1/zf
+homebrew/core1/linode-cli                               homebrew/core1/zk
+homebrew/core1/linux-headers@5.15                       homebrew/core1/zsh-autocomplete
+homebrew/core1/linux-headers@5.16                       homebrew/core1/zsh-autopair
+homebrew/core1/litani                                   homebrew/core1/zsh-fast-syntax-highlighting
+homebrew/core1/livekit                                  homebrew/core1/zx
+homebrew/core1/livekit-cli
+==> Outdated Formulae
+adns                  glib                  libidn2               nghttp2               rabbitmq
+apache-flink          gnu-sed               libksba               node                  rabbitmq-c
+apr                   gnu-tar               libnghttp2            node@12               readline
+apr-util              gnupg                 libpng                numpy                 ruby
+aria2                 gnutls                libpq                 oniguruma             rust
+boost                 go                    libtasn1              opencv                shadowsocks-libev
+c-ares                httpd                 libtiff               openexr               shellcheck
+ca-certificates       icu4c                 libtool               openjdk               six
+cmake                 ilmbase               libunistring          openjdk@11            sqlite
+composer              imagemagick           libusb                openldap              swig
+curl                  jansson               libuv                 openssl@1.1           telnet
+dnsmasq               jemalloc              libxml2               openssl@3             unbound
+eigen                 jpeg                  libxmp                p11-kit               unixodbc
+ffmpeg                json-c                libyaml               p7zip                 webp
+fontconfig            kotlin                libzip                pcre2                 wget
+freetds               krb5                  lz4                   php                   x264
+freetype              lame                  maven                 pinentry              xmp
+gd                    libassuan             mbedtls               pkg-config            xvid
+gdbm                  libev                 mysql                 popt                  xz
+geoip                 libffi                mysql-connector-c++   protobuf              yarn
+gettext               libgcrypt             mysql@5.6             protoc-gen-go         zlib
+git-flow              libgpg-error          mysql@5.7             protoc-gen-go-grpc    zstd
+git-lfs               libidn                nettle                python@3.9
+
+You have 114 outdated formulae installed.
+You can upgrade them with brew upgrade
+or list them with brew outdated.
+
+
+brew update
+Updated 1 tap (homebrew/core).
+==> Outdated Formulae
+adns                  glib                  libidn2               nghttp2               rabbitmq
+apache-flink          gnu-sed               libksba               node                  rabbitmq-c
+apr                   gnu-tar               libnghttp2            node@12               readline
+apr-util              gnupg                 libpng                numpy                 ruby
+aria2                 gnutls                libpq                 oniguruma             rust
+boost                 go                    libtasn1              opencv                shadowsocks-libev
+c-ares                httpd                 libtiff               openexr               shellcheck
+ca-certificates       icu4c                 libtool               openjdk               six
+cmake                 ilmbase               libunistring          openjdk@11            sqlite
+composer              imagemagick           libusb                openldap              swig
+curl                  jansson               libuv                 openssl@1.1           telnet
+dnsmasq               jemalloc              libxml2               openssl@3             unbound
+eigen                 jpeg                  libxmp                p11-kit               unixodbc
+ffmpeg                json-c                libyaml               p7zip                 webp
+fontconfig            kotlin                libzip                pcre2                 wget
+freetds               krb5                  lz4                   php                   x264
+freetype              lame                  maven                 pinentry              xmp
+gd                    libassuan             mbedtls               pkg-config            xvid
+gdbm                  libev                 mysql                 popt                  xz
+geoip                 libffi                mysql-connector-c++   protobuf              yarn
+gettext               libgcrypt             mysql@5.6             protoc-gen-go         zlib
+git-flow              libgpg-error          mysql@5.7             protoc-gen-go-grpc    zstd
+git-lfs               libidn                nettle                python@3.9
+
+You have 114 outdated formulae installed.
+You can upgrade them with brew upgrade
+or list them with brew outdated.
+
+
+
+brew install rust
+rust 1.39.0 is already installed but outdated (so it will be upgraded).
+==> Fetching dependencies for rust: ca-certificates, openssl@1.1 and pkg-config
+==> Fetching ca-certificates
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/ca-certificates-2023-01-10.all.bottle.ta
+######################################################################## 100.0%
+==> Fetching openssl@1.1
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/openssl%401.1-1.1.1t.big_sur.bottle.tar.
+######################################################################## 100.0%
+==> Fetching pkg-config
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/pkg-config-0.29.2_3.big_sur.bottle.tar.g
+Already downloaded: /Users/peterzhang/Library/Caches/Homebrew/downloads/f409843d9115ba193cb194ea9e6ad7d32c2eb5aa5ee564902d15676fe2f9aefd--pkg-config-0.29.2_3.big_sur.bottle.tar.gz
+==> Fetching rust
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/rust-1.67.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Upgrading rust
+  1.39.0 -> 1.67.1 
+
+==> Installing dependencies for rust: ca-certificates, openssl@1.1 and pkg-config
+==> Installing rust dependency: ca-certificates
+==> Pouring ca-certificates-2023-01-10.all.bottle.tar.gz
+==> Regenerating CA certificate bundle from keychain, this may take a while...
+🍺  /usr/local/Cellar/ca-certificates/2023-01-10: 3 files, 216.8KB
+==> Installing rust dependency: openssl@1.1
+==> Pouring openssl@1.1-1.1.1t.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/openssl@1.1/1.1.1t: 8,101 files, 18.5MB
+==> Installing rust dependency: pkg-config
+==> Pouring pkg-config-0.29.2_3.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/pkg-config/0.29.2_3: 11 files, 656.9KB
+==> Installing rust
+==> Pouring rust-1.67.1.big_sur.bottle.tar.gz
+==> Caveats
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/rust/1.67.1: 36,041 files, 899.3MB
+==> Running `brew cleanup rust`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /usr/local/Cellar/rust/1.39.0... (27,261 files, 963.3MB)
+==> Upgrading 14 dependents of upgraded formulae:
+Disable this behaviour by setting HOMEBREW_NO_INSTALLED_DEPENDENTS_CHECK.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+curl 7.79.1_1 -> 7.87.0, freetds 1.3.3 -> 1.3.17, glib 2.70.0_1 -> 2.74.5, krb5 1.19.2 -> 1.20.1, libpq 14.0 -> 15.2, mysql 8.0.26 -> 8.0.32, mysql-connector-c++ 1.1.3 -> 8.0.32, node 16.11.1 -> 19.6.0, node@12 12.22.7 -> 12.22.12_1, openldap 2.5.8 -> 2.6.4, python@3.9 3.9.7_1 -> 3.9.16, php 8.0.11_1 -> 8.2.2, rabbitmq 3.4.1 -> 3.11.9, rabbitmq-c 0.5.2 -> 0.13.0
+==> Fetching openldap
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/openldap-2.6.4.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching krb5
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/krb5-1.20.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libpq
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libpq-15.2.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+Error: node@12 has been disabled because it is not supported upstream!
+==> Fetching dependencies for curl: libunistring, gettext, libidn2, libnghttp2, lz4, xz and zstd
+==> Fetching libunistring
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libunistring-1.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching gettext
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/gettext-0.21.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libidn2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libidn2-2.3.4_1.big_sur.bottle.1.tar.gz
+######################################################################## 100.0%
+==> Fetching libnghttp2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libnghttp2-1.52.0.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching lz4
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/lz4-1.9.4.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching xz
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/xz-5.4.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching zstd
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/zstd-1.5.4.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching curl
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/curl-7.87.0.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching dependencies for node: c-ares, icu4c and libuv
+==> Fetching c-ares
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/c-ares-1.19.0.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching icu4c
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/icu4c-72.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libuv
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libuv-1.44.2.big_sur.bottle.1.tar.gz
+######################################################################## 100.0%
+==> Fetching node
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/node-19.6.0.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching dependencies for python@3.9: gdbm, readline and sqlite
+==> Fetching gdbm
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/gdbm-1.23.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching readline
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/readline-8.2.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching sqlite
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/sqlite-3.40.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching python@3.9
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/python%403.9-3.9.16.big_sur.bottle.tar.g
+######################################################################## 100.0%
+==> Fetching dependencies for freetds: libtool and unixodbc
+==> Fetching libtool
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libtool-2.4.7.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching unixodbc
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/unixodbc-2.3.11.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching freetds
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/freetds-1.3.17.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching dependencies for php: apr, apr-util, libpng, freetype, fontconfig, jpeg-turbo, giflib, highway, imath, libtiff, little-cms2, openexr, webp, jpeg-xl, libvmaf, aom, libavif, gd, libzip, oniguruma and pcre2
+==> Fetching apr
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/apr-1.7.2.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching apr-util
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/apr-util-1.6.3.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libpng
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libpng-1.6.39.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching freetype
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/freetype-2.13.0.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching fontconfig
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/fontconfig-2.14.2.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching jpeg-turbo
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/jpeg-turbo-2.1.5.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching giflib
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/giflib-5.2.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching highway
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/highway-1.0.3.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching imath
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/imath-3.1.6.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libtiff
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libtiff-4.4.0_1.big_sur.bottle.1.tar.gz
+######################################################################## 100.0%
+==> Fetching little-cms2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/little-cms2-2.14.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching openexr
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/openexr-3.1.5.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching webp
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/webp-1.3.0.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching jpeg-xl
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/jpeg-xl-0.8.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libvmaf
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libvmaf-2.3.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching aom
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/aom-3.6.0.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libavif
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libavif-0.11.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching gd
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/gd-2.3.3_4.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libzip
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libzip-1.9.2.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching oniguruma
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/oniguruma-6.9.8.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching pcre2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/pcre2-10.42.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching php
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/php-8.2.2.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching dependencies for rabbitmq: wxwidgets and erlang
+==> Fetching wxwidgets
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/wxwidgets-3.2.2.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching erlang
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/erlang-25.2.2.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching rabbitmq
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/rabbitmq-3.11.9.all.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching dependencies for rabbitmq-c: openssl@3 and popt
+==> Fetching openssl@3
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/openssl%403-3.0.8.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching popt
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/popt-1.19.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching rabbitmq-c
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/rabbitmq-c-0.13.0.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching glib
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/glib-2.74.5.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching dependencies for mysql: libcbor, libfido2, protobuf and zlib
+==> Fetching libcbor
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libcbor-0.10.2.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching libfido2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libfido2-1.12.0_1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching protobuf
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/protobuf-21.12.big_sur.bottle.1.tar.gz
+######################################################################## 100.0%
+==> Fetching zlib
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/zlib-1.2.13.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching mysql
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/mysql-8.0.32.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Fetching dependencies for mysql-connector-c++: mysql-client
+==> Fetching mysql-client
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/mysql-client-8.0.32.big_sur.bottle.tar.g
+######################################################################## 100.0%
+==> Fetching mysql-connector-c++
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/mysql-connector-c%2B%2B-8.0.32.big_sur.b
+######################################################################## 100.0%
+==> Upgrading openldap
+  2.5.8 -> 2.6.4 
+
+==> Pouring openldap-2.6.4.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/openldap/2.6.4: 340 files, 7.6MB
+==> Running `brew cleanup openldap`...
+Removing: /usr/local/Cellar/openldap/2.5.8... (341 files, 7.5MB)
+==> Upgrading krb5
+  1.19.2 -> 1.20.1 
+
+==> Pouring krb5-1.20.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/krb5/1.20.1: 162 files, 5.2MB
+==> Running `brew cleanup krb5`...
+Removing: /usr/local/Cellar/krb5/1.19.2... (162 files, 5.2MB)
+==> Upgrading libpq
+  14.0 -> 15.2 
+
+==> Pouring libpq-15.2.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libpq/15.2: 2,368 files, 28.1MB
+==> Running `brew cleanup libpq`...
+Removing: /usr/local/Cellar/libpq/14.0... (2,334 files, 27.8MB)
+==> Upgrading curl
+  7.79.1_1 -> 7.87.0 
+
+==> Installing dependencies for curl: libunistring, gettext, libidn2, libnghttp2, lz4, xz and zstd
+==> Installing curl dependency: libunistring
+==> Pouring libunistring-1.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libunistring/1.1: 56 files, 4.9MB
+==> Installing curl dependency: gettext
+==> Pouring gettext-0.21.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/gettext/0.21.1: 1,983 files, 20.6MB
+==> Installing curl dependency: libidn2
+==> Pouring libidn2-2.3.4_1.big_sur.bottle.1.tar.gz
+🍺  /usr/local/Cellar/libidn2/2.3.4_1: 79 files, 1003.7KB
+==> Installing curl dependency: libnghttp2
+==> Pouring libnghttp2-1.52.0.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libnghttp2/1.52.0: 13 files, 714.7KB
+==> Installing curl dependency: lz4
+==> Pouring lz4-1.9.4.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/lz4/1.9.4: 22 files, 718.6KB
+==> Installing curl dependency: xz
+==> Pouring xz-5.4.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/xz/5.4.1: 95 files, 1.6MB
+==> Installing curl dependency: zstd
+==> Pouring zstd-1.5.4.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/zstd/1.5.4: 31 files, 2.5MB
+==> Installing curl
+==> Pouring curl-7.87.0.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/curl/7.87.0: 510 files, 4.2MB
+==> Running `brew cleanup curl`...
+Removing: /usr/local/Cellar/curl/7.79.1_1... (486 files, 3.9MB)
+==> Upgrading node
+  16.11.1 -> 19.6.0 
+
+==> Installing dependencies for node: c-ares, icu4c and libuv
+==> Installing node dependency: c-ares
+==> Pouring c-ares-1.19.0.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/c-ares/1.19.0: 87 files, 656KB
+==> Installing node dependency: icu4c
+==> Pouring icu4c-72.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/icu4c/72.1: 263 files, 78MB
+==> Installing node dependency: libuv
+==> Pouring libuv-1.44.2.big_sur.bottle.1.tar.gz
+🍺  /usr/local/Cellar/libuv/1.44.2: 51 files, 3.5MB
+==> Installing node
+==> Pouring node-19.6.0.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/node/19.6.0: 2,154 files, 55.6MB
+==> Running `brew cleanup node`...
+Removing: /usr/local/Cellar/node/16.11.1... (1,980 files, 45.4MB)
+==> Upgrading python@3.9
+  3.9.7_1 -> 3.9.16 
+
+==> Installing dependencies for python@3.9: gdbm, readline and sqlite
+==> Installing python@3.9 dependency: gdbm
+==> Pouring gdbm-1.23.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/gdbm/1.23: 24 files, 972.8KB
+==> Installing python@3.9 dependency: readline
+==> Pouring readline-8.2.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/readline/8.2.1: 50 files, 1.7MB
+==> Installing python@3.9 dependency: sqlite
+==> Pouring sqlite-3.40.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/sqlite/3.40.1: 11 files, 4.4MB
+==> Installing python@3.9
+==> Pouring python@3.9-3.9.16.big_sur.bottle.tar.gz
+==> /usr/local/Cellar/python@3.9/3.9.16/bin/python3.9 -m ensurepip
+==> /usr/local/Cellar/python@3.9/3.9.16/bin/python3.9 -m pip install -v --no-deps --no-index --upgrade --isola
+🍺  /usr/local/Cellar/python@3.9/3.9.16: 3,066 files, 55.6MB
+==> Running `brew cleanup python@3.9`...
+Removing: /usr/local/Cellar/python@3.9/3.9.7_1... (3,171 files, 55.9MB)
+==> Upgrading freetds
+  1.3.3 -> 1.3.17 
+
+==> Installing dependencies for freetds: libtool and unixodbc
+==> Installing freetds dependency: libtool
+==> Pouring libtool-2.4.7.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libtool/2.4.7: 75 files, 3.8MB
+==> Installing freetds dependency: unixodbc
+==> Pouring unixodbc-2.3.11.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/unixodbc/2.3.11: 48 files, 2.2MB
+==> Installing freetds
+==> Pouring freetds-1.3.17.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/freetds/1.3.17: 1,262 files, 13.8MB
+==> Running `brew cleanup freetds`...
+Removing: /usr/local/Cellar/freetds/1.3.3... (1,262 files, 13.8MB)
+==> Upgrading php
+  8.0.11_1 -> 8.2.2 
+
+==> Installing dependencies for php: apr, apr-util, libpng, freetype, fontconfig, jpeg-turbo, giflib, highway, imath, libtiff, little-cms2, openexr, webp, jpeg-xl, libvmaf, aom, libavif, gd, libzip, oniguruma and pcre2
+==> Installing php dependency: apr
+==> Pouring apr-1.7.2.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/apr/1.7.2: 59 files, 1.4MB
+==> Installing php dependency: apr-util
+==> Pouring apr-util-1.6.3.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/apr-util/1.6.3: 54 files, 870.7KB
+==> Installing php dependency: libpng
+==> Pouring libpng-1.6.39.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libpng/1.6.39: 27 files, 1.3MB
+==> Installing php dependency: freetype
+==> Pouring freetype-2.13.0.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/freetype/2.13.0: 67 files, 2.4MB
+==> Installing php dependency: fontconfig
+==> Pouring fontconfig-2.14.2.big_sur.bottle.tar.gz
+==> Regenerating font cache, this may take a while
+==> /usr/local/Cellar/fontconfig/2.14.2/bin/fc-cache -frv
+🍺  /usr/local/Cellar/fontconfig/2.14.2: 88 files, 2.3MB
+==> Installing php dependency: jpeg-turbo
+==> Pouring jpeg-turbo-2.1.5.1.big_sur.bottle.tar.gz
+Warning: These files were overwritten during the `brew link` step:
+/usr/local/bin/cjpeg
+/usr/local/bin/djpeg
+/usr/local/bin/jpegtran
+/usr/local/bin/rdjpgcom
+/usr/local/bin/wrjpgcom
+/usr/local/include/jconfig.h
+/usr/local/include/jerror.h
+/usr/local/include/jmorecfg.h
+/usr/local/include/jpeglib.h
+/usr/local/share/man/man1/cjpeg.1
+/usr/local/share/man/man1/djpeg.1
+/usr/local/share/man/man1/jpegtran.1
+/usr/local/share/man/man1/rdjpgcom.1
+/usr/local/share/man/man1/wrjpgcom.1
+/usr/local/lib/libjpeg.a
+/usr/local/lib/libjpeg.dylib
+/usr/local/lib/pkgconfig/libjpeg.pc
+
+They have been backed up to: /Users/peterzhang/Library/Caches/Homebrew/Backup
+==> Summary
+🍺  /usr/local/Cellar/jpeg-turbo/2.1.5.1: 44 files, 3.9MB
+==> Installing php dependency: giflib
+==> Pouring giflib-5.2.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/giflib/5.2.1: 19 files, 599.8KB
+==> Installing php dependency: highway
+==> Pouring highway-1.0.3.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/highway/1.0.3: 61 files, 3.4MB
+==> Installing php dependency: imath
+==> Pouring imath-3.1.6.big_sur.bottle.tar.gz
+Warning: These files were overwritten during the `brew link` step:
+/usr/local/lib/libImath.dylib
+
+They have been backed up to: /Users/peterzhang/Library/Caches/Homebrew/Backup
+==> Summary
+🍺  /usr/local/Cellar/imath/3.1.6: 49 files, 927.0KB
+==> Installing php dependency: libtiff
+==> Pouring libtiff-4.4.0_1.big_sur.bottle.1.tar.gz
+🍺  /usr/local/Cellar/libtiff/4.4.0_1: 249 files, 4.6MB
+==> Installing php dependency: little-cms2
+==> Pouring little-cms2-2.14.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/little-cms2/2.14: 21 files, 1.3MB
+==> Installing php dependency: openexr
+==> Pouring openexr-3.1.5.big_sur.bottle.tar.gz
+Warning: These files were overwritten during the `brew link` step:
+/usr/local/include/OpenEXR/Iex.h
+/usr/local/include/OpenEXR/IexBaseExc.h
+/usr/local/include/OpenEXR/IexErrnoExc.h
+/usr/local/include/OpenEXR/IexExport.h
+/usr/local/include/OpenEXR/IexForward.h
+/usr/local/include/OpenEXR/IexMacros.h
+/usr/local/include/OpenEXR/IexMathExc.h
+/usr/local/include/OpenEXR/IexMathFloatExc.h
+/usr/local/include/OpenEXR/IexMathIeeeExc.h
+/usr/local/include/OpenEXR/IexNamespace.h
+/usr/local/include/OpenEXR/IexThrowErrnoExc.h
+/usr/local/include/OpenEXR/IlmThread.h
+/usr/local/include/OpenEXR/IlmThreadExport.h
+/usr/local/include/OpenEXR/IlmThreadForward.h
+/usr/local/include/OpenEXR/IlmThreadMutex.h
+/usr/local/include/OpenEXR/IlmThreadNamespace.h
+/usr/local/include/OpenEXR/IlmThreadPool.h
+/usr/local/include/OpenEXR/IlmThreadSemaphore.h
+/usr/local/lib/libIex.dylib
+/usr/local/lib/libIlmThread.dylib
+
+They have been backed up to: /Users/peterzhang/Library/Caches/Homebrew/Backup
+==> Summary
+🍺  /usr/local/Cellar/openexr/3.1.5: 194 files, 6.0MB
+==> Installing php dependency: webp
+==> Pouring webp-1.3.0.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/webp/1.3.0: 47 files, 2.5MB
+==> Installing php dependency: jpeg-xl
+==> Pouring jpeg-xl-0.8.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/jpeg-xl/0.8.1: 41 files, 17.9MB
+==> Installing php dependency: libvmaf
+==> Pouring libvmaf-2.3.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libvmaf/2.3.1: 234 files, 7.2MB
+==> Installing php dependency: aom
+==> Pouring aom-3.6.0.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/aom/3.6.0: 23 files, 13MB
+==> Installing php dependency: libavif
+==> Pouring libavif-0.11.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libavif/0.11.1: 19 files, 489.5KB
+==> Installing php dependency: gd
+==> Pouring gd-2.3.3_4.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/gd/2.3.3_4: 33 files, 1.5MB
+==> Installing php dependency: libzip
+==> Pouring libzip-1.9.2.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libzip/1.9.2: 145 files, 778.6KB
+==> Installing php dependency: oniguruma
+==> Pouring oniguruma-6.9.8.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/oniguruma/6.9.8: 14 files, 1.4MB
+==> Installing php dependency: pcre2
+==> Pouring pcre2-10.42.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/pcre2/10.42: 230 files, 6.4MB
+==> Installing php
+==> Pouring php-8.2.2.big_sur.bottle.tar.gz
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set php_ini /usr/local/etc/php/8.2/php.ini system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set php_dir /usr/local/share/pear system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set doc_dir /usr/local/share/pear/doc system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set ext_dir /usr/local/lib/php/pecl/20220829 system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set bin_dir /usr/local/opt/php/bin system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set data_dir /usr/local/share/pear/data system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set cfg_dir /usr/local/share/pear/cfg system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set www_dir /usr/local/share/pear/htdocs system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set man_dir /usr/local/share/man system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set test_dir /usr/local/share/pear/test system
+==> /usr/local/Cellar/php/8.2.2/bin/pear config-set php_bin /usr/local/opt/php/bin/php system
+==> /usr/local/Cellar/php/8.2.2/bin/pear update-channels
+==> Caveats
+To enable PHP in Apache add the following to httpd.conf and restart Apache:
+    LoadModule php_module /usr/local/opt/php/lib/httpd/modules/libphp.so
+
+    <FilesMatch \.php$>
+        SetHandler application/x-httpd-php
+    </FilesMatch>
+
+Finally, check DirectoryIndex includes index.php
+    DirectoryIndex index.php index.html
+
+The php.ini and php-fpm.ini file can be found in:
+    /usr/local/etc/php/8.2/
+
+To restart php after an upgrade:
+  brew services restart php
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/php/sbin/php-fpm --nodaemonize
+==> Summary
+🍺  /usr/local/Cellar/php/8.2.2: 519 files, 81.8MB
+==> Running `brew cleanup php`...
+Removing: /usr/local/Cellar/php/8.0.11_1... (500 files, 77.9MB)
+==> Upgrading rabbitmq
+  3.4.1 -> 3.11.9 
+
+==> Installing dependencies for rabbitmq: wxwidgets and erlang
+==> Installing rabbitmq dependency: wxwidgets
+==> Pouring wxwidgets-3.2.2.1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/wxwidgets/3.2.2.1: 834 files, 25.5MB
+==> Installing rabbitmq dependency: erlang
+==> Pouring erlang-25.2.2.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/erlang/25.2.2: 7,888 files, 488.5MB
+==> Installing rabbitmq
+==> Pouring rabbitmq-3.11.9.all.bottle.tar.gz
+Error: The `brew link` step did not complete successfully
+The formula built, but is not symlinked into /usr/local
+Could not symlink sbin/rabbitmq-defaults
+Target /usr/local/sbin/rabbitmq-defaults
+is a symlink belonging to rabbitmq. You can unlink it:
+  brew unlink rabbitmq
+
+To force the link and overwrite all conflicting files:
+  brew link --overwrite rabbitmq
+
+To list all files that would be deleted:
+  brew link --overwrite --dry-run rabbitmq
+
+Possible conflicting files are:
+/usr/local/sbin/rabbitmq-defaults -> /usr/local/Cellar/rabbitmq/3.4.1/sbin/rabbitmq-defaults
+/usr/local/sbin/rabbitmq-env -> /usr/local/Cellar/rabbitmq/3.4.1/sbin/rabbitmq-env
+/usr/local/sbin/rabbitmq-plugins -> /usr/local/Cellar/rabbitmq/3.4.1/sbin/rabbitmq-plugins
+/usr/local/sbin/rabbitmq-server -> /usr/local/Cellar/rabbitmq/3.4.1/sbin/rabbitmq-server
+/usr/local/sbin/rabbitmqadmin -> /usr/local/Cellar/rabbitmq/3.4.1/sbin/rabbitmqadmin
+/usr/local/sbin/rabbitmqctl -> /usr/local/Cellar/rabbitmq/3.4.1/sbin/rabbitmqctl
+/usr/local/share/man/man5/rabbitmq-env.conf.5.gz -> /usr/local/Cellar/rabbitmq/3.4.1/share/man/man5/rabbitmq-env.conf.5.gz
+==> Caveats
+Management Plugin enabled by default at http://localhost:15672
+
+To restart rabbitmq after an upgrade:
+  brew services restart rabbitmq
+Or, if you don't want/need a background service you can just run:
+  CONF_ENV_FILE="/usr/local/etc/rabbitmq/rabbitmq-env.conf" /usr/local/opt/rabbitmq/sbin/rabbitmq-server
+==> Summary
+🍺  /usr/local/Cellar/rabbitmq/3.11.9: 1,415 files, 33.7MB
+==> Running `brew cleanup rabbitmq`...
+Removing: /usr/local/Cellar/rabbitmq/3.4.1... (1,031 files, 25.2MB)
+==> Upgrading rabbitmq-c
+  0.5.2 -> 0.13.0 
+
+==> Installing dependencies for rabbitmq-c: openssl@3 and popt
+==> Installing rabbitmq-c dependency: openssl@3
+==> Pouring openssl@3-3.0.8.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/openssl@3/3.0.8: 6,480 files, 28.5MB
+==> Installing rabbitmq-c dependency: popt
+==> Pouring popt-1.19.big_sur.bottle.tar.gz
+Error: The `brew link` step did not complete successfully
+The formula built, but is not symlinked into /usr/local
+Could not symlink include/popt.h
+Target /usr/local/include/popt.h
+is a symlink belonging to popt. You can unlink it:
+  brew unlink popt
+
+To force the link and overwrite all conflicting files:
+  brew link --overwrite popt
+
+To list all files that would be deleted:
+  brew link --overwrite --dry-run popt
+
+Possible conflicting files are:
+/usr/local/include/popt.h -> /usr/local/Cellar/popt/1.16/include/popt.h
+/usr/local/share/man/man3/popt.3 -> /usr/local/Cellar/popt/1.16/share/man/man3/popt.3
+/usr/local/lib/libpopt.0.dylib -> /usr/local/Cellar/popt/1.16/lib/libpopt.0.dylib
+/usr/local/lib/libpopt.a -> /usr/local/Cellar/popt/1.16/lib/libpopt.a
+/usr/local/lib/libpopt.dylib -> /usr/local/Cellar/popt/1.16/lib/libpopt.dylib
+/usr/local/lib/pkgconfig/popt.pc -> /usr/local/Cellar/popt/1.16/lib/pkgconfig/popt.pc
+==> Summary
+🍺  /usr/local/Cellar/popt/1.19: 10 files, 173.6KB
+==> Installing rabbitmq-c
+==> Pouring rabbitmq-c-0.13.0.big_sur.bottle.tar.gz
+Error: The `brew link` step did not complete successfully
+The formula built, but is not symlinked into /usr/local
+Could not symlink bin/amqp-consume
+Target /usr/local/bin/amqp-consume
+is a symlink belonging to rabbitmq-c. You can unlink it:
+  brew unlink rabbitmq-c
+
+To force the link and overwrite all conflicting files:
+  brew link --overwrite rabbitmq-c
+
+To list all files that would be deleted:
+  brew link --overwrite --dry-run rabbitmq-c
+
+Possible conflicting files are:
+/usr/local/bin/amqp-consume -> /usr/local/Cellar/rabbitmq-c/0.5.2/bin/amqp-consume
+/usr/local/bin/amqp-declare-queue -> /usr/local/Cellar/rabbitmq-c/0.5.2/bin/amqp-declare-queue
+/usr/local/bin/amqp-delete-queue -> /usr/local/Cellar/rabbitmq-c/0.5.2/bin/amqp-delete-queue
+/usr/local/bin/amqp-get -> /usr/local/Cellar/rabbitmq-c/0.5.2/bin/amqp-get
+/usr/local/bin/amqp-publish -> /usr/local/Cellar/rabbitmq-c/0.5.2/bin/amqp-publish
+/usr/local/include/amqp.h -> /usr/local/Cellar/rabbitmq-c/0.5.2/include/amqp.h
+/usr/local/include/amqp_framing.h -> /usr/local/Cellar/rabbitmq-c/0.5.2/include/amqp_framing.h
+/usr/local/include/amqp_ssl_socket.h -> /usr/local/Cellar/rabbitmq-c/0.5.2/include/amqp_ssl_socket.h
+/usr/local/include/amqp_tcp_socket.h -> /usr/local/Cellar/rabbitmq-c/0.5.2/include/amqp_tcp_socket.h
+/usr/local/lib/librabbitmq.dylib -> /usr/local/Cellar/rabbitmq-c/0.5.2/lib/librabbitmq.dylib
+/usr/local/lib/pkgconfig/librabbitmq.pc -> /usr/local/Cellar/rabbitmq-c/0.5.2/lib/pkgconfig/librabbitmq.pc
+==> Summary
+🍺  /usr/local/Cellar/rabbitmq-c/0.13.0: 35 files, 673.5KB
+==> Running `brew cleanup rabbitmq-c`...
+Removing: /usr/local/Cellar/rabbitmq-c/0.5.2... (18 files, 322.8KB)
+==> Upgrading glib
+  2.70.0_1 -> 2.74.5 
+
+==> Pouring glib-2.74.5.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/glib/2.74.5: 449 files, 20.9MB
+==> Running `brew cleanup glib`...
+Removing: /usr/local/Cellar/glib/2.70.0_1... (444 files, 21MB)
+==> Upgrading mysql
+  8.0.26 -> 8.0.32 
+
+==> Installing dependencies for mysql: libcbor, libfido2, protobuf and zlib
+==> Installing mysql dependency: libcbor
+==> Pouring libcbor-0.10.2.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libcbor/0.10.2: 31 files, 175.3KB
+==> Installing mysql dependency: libfido2
+==> Pouring libfido2-1.12.0_1.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/libfido2/1.12.0_1: 538 files, 1.2MB
+==> Installing mysql dependency: protobuf
+==> Pouring protobuf-21.12.big_sur.bottle.1.tar.gz
+🍺  /usr/local/Cellar/protobuf/21.12: 285 files, 10.2MB
+==> Installing mysql dependency: zlib
+==> Pouring zlib-1.2.13.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/zlib/1.2.13: 13 files, 424.9KB
+==> Installing mysql
+==> Pouring mysql-8.0.32.big_sur.bottle.tar.gz
+==> Caveats
+We've installed your MySQL database without a root password. To secure it run:
+    mysql_secure_installation
+
+MySQL is configured to only allow connections from localhost by default
+
+To connect run:
+    mysql -u root
+
+To restart mysql after an upgrade:
+  brew services restart mysql
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/mysql/bin/mysqld_safe --datadir=/usr/local/var/mysql
+==> Summary
+🍺  /usr/local/Cellar/mysql/8.0.32: 317 files, 298.8MB
+==> Running `brew cleanup mysql`...
+Removing: /usr/local/Cellar/mysql/8.0.26... (304 files, 296MB)
+==> Upgrading mysql-connector-c++
+  1.1.3 -> 8.0.32 
+
+==> Installing dependencies for mysql-connector-c++: mysql-client
+==> Installing mysql-connector-c++ dependency: mysql-client
+==> Pouring mysql-client-8.0.32.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/mysql-client/8.0.32: 129 files, 149.3MB
+==> Installing mysql-connector-c++
+==> Pouring mysql-connector-c++-8.0.32.big_sur.bottle.tar.gz
+🍺  /usr/local/Cellar/mysql-connector-c++/8.0.32: 40 files, 4.2MB
+==> Running `brew cleanup mysql-connector-c++`...
+Removing: /usr/local/Cellar/mysql-connector-c++/1.1.3... (27 files, 1.9MB)
+==> Checking for dependents of upgraded formulae...
+==> No broken dependents to reinstall!
+==> `brew cleanup` has not been run in the last 30 days, running now...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /usr/local/Cellar/apr/1.7.0_2... (104 files, 1.4MB)
+Removing: /usr/local/Cellar/apr-util/1.6.1_3... (54 files, 785.7KB)
+Removing: /usr/local/Cellar/c-ares/1.17.2... (85 files, 642.2KB)
+Removing: /usr/local/Cellar/ca-certificates/2021-09-30... (3 files, 203.4KB)
+Removing: /usr/local/Cellar/fontconfig/2.13.1... (531 files, 3.6MB)
+Removing: /usr/local/Cellar/freetype/2.11.0... (66 files, 2.5MB)
+Removing: /usr/local/Cellar/gd/2.3.3_1... (33 files, 1.4MB)
+Removing: /usr/local/Cellar/gdbm/1.21_1... (24 files, 902.6KB)
+Removing: /usr/local/Cellar/gettext/0.21... (1,953 files, 19.8MB)
+Removing: /usr/local/Cellar/icu4c/69.1... (259 files, 72.8MB)
+Removing: /usr/local/Cellar/libidn2/2.3.2... (77 files, 846.6KB)
+Removing: /usr/local/Cellar/libnghttp2/1.45.1... (13 files, 659.7KB)
+Removing: /usr/local/Cellar/libpng/1.6.37... (27 files, 1.2MB)
+Removing: /usr/local/Cellar/libtiff/4.3.0... (249 files, 4.4MB)
+Removing: /usr/local/Cellar/libtool/2.4.6_4... (75 files, 3.7MB)
+Removing: /usr/local/Cellar/libunistring/0.9.10... (54 files, 4.4MB)
+Removing: /usr/local/Cellar/libuv/1.42.0... (49 files, 3.4MB)
+Removing: /usr/local/Cellar/libzip/1.8.0_1... (144 files, 772.4KB)
+Removing: /usr/local/Cellar/lz4/1.9.3... (22 files, 657.8KB)
+Removing: /usr/local/Cellar/oniguruma/6.9.7.1... (14 files, 1.4MB)
+Removing: /usr/local/Cellar/openexr/2.2.0... (131 files, 11.2MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/openjdk--17... (180.1MB)
+Removing: /usr/local/Cellar/openssl@1.1/1.1.1l_1... (8,073 files, 18.5MB)
+Removing: /usr/local/Cellar/openssl/1.0.1j... (1,236 files, 10.6MB)
+Removing: /usr/local/Cellar/openssl/1.0.1j_1... (1,236 files, 10.7MB)
+Removing: /usr/local/Cellar/openssl/1.0.2l... (1,709 files, 12.2MB)
+Removing: /usr/local/Cellar/openssl/1.0.2m... (1,792 files, 12.3MB)
+Removing: /usr/local/Cellar/openssl/1.0.2o_2... (1,792 files, 12.3MB)
+Removing: /usr/local/Cellar/openssl/1.0.2q... (1,794 files, 12.1MB)
+Removing: /usr/local/Cellar/openssl/1.0.2s... (1,795 files, 12.0MB)
+Removing: /usr/local/Cellar/pcre2/10.38... (230 files, 6.2MB)
+Removing: /usr/local/Cellar/pkg-config/0.29.2... (11 files, 627KB)
+Removing: /usr/local/Cellar/popt/1.16... (10 files, 161.5KB)
+Removing: /usr/local/Cellar/protobuf/3.17.3... (210 files, 18.0MB)
+Removing: /usr/local/Cellar/readline/8.1.1... (48 files, 1.6MB)
+Removing: /usr/local/Cellar/sqlite/3.36.0... (11 files, 4.2MB)
+Removing: /usr/local/Cellar/unixodbc/2.3.9_1... (46 files, 2.2MB)
+Removing: /usr/local/Cellar/webp/1.2.1... (39 files, 2.4MB)
+Removing: /usr/local/Cellar/xz/5.2.5... (95 files, 1.4MB)
+Removing: /usr/local/Cellar/zlib/1.2.8... (11 files, 361.7KB)
+Removing: /usr/local/Cellar/zstd/1.5.0... (31 files, 3.5MB)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/openjdk... (64B)
+Removing: /usr/local/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc... (279B)
+Removing: /usr/local/lib/python3.6/site-packages/__pycache__/sitecustomize.cpython-36.pyc... (1.3KB)
+Removing: /usr/local/lib/python3.7/site-packages/__pycache__/easy_install.cpython-37.pyc... (283B)
+Removing: /usr/local/lib/python3.7/site-packages/__pycache__/sitecustomize.cpython-37.pyc... (1.4KB)
+Removing: /usr/local/lib/python3.9/site-packages/__pycache__/cycler.cpython-39.pyc... (14.2KB)
+Removing: /usr/local/lib/python3.9/site-packages/__pycache__/decorator.cpython-39.pyc... (13.2KB)
+Removing: /usr/local/lib/python3.9/site-packages/__pycache__/pylab.cpython-39.pyc... (219B)
+Removing: /usr/local/lib/python3.9/site-packages/__pycache__/six.cpython-39.pyc... (26.8KB)
+Removing: /usr/local/lib/python3.9/site-packages/__pycache__/termcolor.cpython-39.pyc... (3KB)
+Removing: /usr/local/lib/python3.9/site-packages/__pycache__/typing_extensions.cpython-39.pyc... (65.5KB)
+Removing: /usr/local/lib/python3.9/site-packages/__pycache__/zipp.cpython-39.pyc... (10KB)
+Pruned 54 symbolic links and 13 directories from /usr/local
+==> Caveats
+==> rust
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> php
+To enable PHP in Apache add the following to httpd.conf and restart Apache:
+    LoadModule php_module /usr/local/opt/php/lib/httpd/modules/libphp.so
+
+    <FilesMatch \.php$>
+        SetHandler application/x-httpd-php
+    </FilesMatch>
+
+Finally, check DirectoryIndex includes index.php
+    DirectoryIndex index.php index.html
+
+The php.ini and php-fpm.ini file can be found in:
+    /usr/local/etc/php/8.2/
+
+To restart php after an upgrade:
+  brew services restart php
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/php/sbin/php-fpm --nodaemonize
+==> rabbitmq
+Management Plugin enabled by default at http://localhost:15672
+
+To restart rabbitmq after an upgrade:
+  brew services restart rabbitmq
+Or, if you don't want/need a background service you can just run:
+  CONF_ENV_FILE="/usr/local/etc/rabbitmq/rabbitmq-env.conf" /usr/local/opt/rabbitmq/sbin/rabbitmq-server
+==> mysql
+We've installed your MySQL database without a root password. To secure it run:
+    mysql_secure_installation
+
+MySQL is configured to only allow connections from localhost by default
+
+To connect run:
+    mysql -u root
+
+To restart mysql after an upgrade:
+  brew services restart mysql
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/mysql/bin/mysqld_safe --datadir=/usr/local/var/mysql
+
+
+node version
+dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.69.dylib
+  Referenced from: /usr/local/opt/node@12/bin/node
+  Reason: image not found
+zsh: abort      node version
+
+
+brew search node  
+==> Formulae
+libbitcoin-node   node ✔            node@10           node@16           nodebrew          ode
+linode-cli        node-build        node@12 ✔         node@18           nodeenv
+llnode            node-sass         node@14           node_exporter     nodenv
+
+==> Casks
+capslocknodelay                      nodebox                              nodeclipse
+
+If you meant "node" specifically:
+It was migrated from homebrew/cask to homebrew/core.
+
+
+brew install node@12
+node@12  is already installed but outdated (so it will be upgraded).
+Error: node@12 has been disabled because it is not supported upstream!
+
+
+brew uninstall node@12
+Uninstalling /usr/local/Cellar/node@12/12.22.7... (3,914 files, 51.9MB)
+
+node --version
+v19.6.0
+
+
+brew search mysql
+==> Formulae
+automysqlbackup             mysql-client ✔              mysql-sandbox               mysql@5.7 ✔
+mysql ✔                     mysql-client@5.7            mysql-search-replace        mysqltuner
+mysql++                     mysql-connector-c++ ✔       mysql@5.6 ✔                 qt-mysql
+
+==> Casks
+mysql-connector-python               mysqlworkbench                       sqlpro-for-mysql
+mysql-shell                          navicat-for-mysql
+
+
+Module build failed (from ./node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs.js):
+Error: Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (111)
+For more information on which environments are supported please see:
+https://github.com/sass/node-sass/releases/tag/v4.14.1
