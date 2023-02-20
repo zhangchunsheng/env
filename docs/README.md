@@ -47,6 +47,8 @@ docker pull redis:latest
 docker images
 
 docker run --name redis-jarvan -p 6379:6379 -d --restart=always redis:latest redis-server --appendonly yes --requirepass '123456'
+
+brew cask install docker
 ```
 
 ```
