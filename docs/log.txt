@@ -1585,3 +1585,14 @@ zsh completions have been installed to:
 Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
 Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
 
+
+docker version
+Client: Docker Engine - Community
+ Version:           23.0.1
+ API version:       1.42
+ Go version:        go1.19.5
+ Git commit:        a5ee5b1dfc
+ Built:             Thu Feb  9 19:15:59 2023
+ OS/Arch:           darwin/amd64
+ Context:           default
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?

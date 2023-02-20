@@ -37,6 +37,10 @@ cd "$(brew --repo)"/Library/Taps/homebrew/homebrew-cask
 git remote set-url origin https://mirrors.ustc.edu.cn/homebrew-cask.git
 
 https://unpkg.com/axios/dist/axios.min.js
+
+brew search docker
+brew install docker
+docker --version
 ```
 
 ```
