@@ -1569,3 +1569,19 @@ Module build failed (from ./node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs
 Error: Missing binding ~/dev/suomitek/git/beijing-tower-friday/friday-admin/node_modules/_node-sass@4.14.1@node-sass/vendor/darwin-x64-83/binding.node
 Node Sass could not find a binding for your current environment: OS X 64-bit with Node.js 14.x
 
+brew install docker
+Running `brew update --auto-update`...
+Warning: Treating docker as a formula. For the cask, use homebrew/cask/docker
+==> Fetching docker
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/docker-23.0.1.big_sur.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring docker-23.0.1.big_sur.bottle.tar.gz
+==> Caveats
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/docker/23.0.1: 12 files, 32.2MB
+==> Running `brew cleanup docker`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+
