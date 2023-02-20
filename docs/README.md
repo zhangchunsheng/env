@@ -41,6 +41,7 @@ https://unpkg.com/axios/dist/axios.min.js
 brew search docker
 brew install docker
 docker --version
+brew info docker
 
 docker search redis
 docker pull redis:latest
