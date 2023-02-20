@@ -1596,3 +1596,7 @@ Client: Docker Engine - Community
  OS/Arch:           darwin/amd64
  Context:           default
 Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+brew uninstall docker
+Warning: Treating docker as a formula. For the cask, use homebrew/cask/docker
+Uninstalling /usr/local/Cellar/docker/23.0.1... (12 files, 32.2MB)
