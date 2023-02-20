@@ -41,6 +41,12 @@ https://unpkg.com/axios/dist/axios.min.js
 brew search docker
 brew install docker
 docker --version
+
+docker search redis
+docker pull redis:latest
+docker images
+
+docker run --name redis-jarvan -p 6379:6379 -d --restart=always redis:latest redis-server --appendonly yes --requirepass '123456'
 ```
 
 ```
