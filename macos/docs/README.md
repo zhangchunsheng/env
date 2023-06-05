@@ -50,6 +50,14 @@ docker images
 docker run --name redis-jarvan -p 6379:6379 -d --restart=always redis:latest redis-server --appendonly yes --requirepass '123456'
 
 brew cask install docker
+
+brew unlink boost
+
+To force the link and overwrite all conflicting files:
+  brew link --overwrite boost
+
+To list all files that would be deleted:
+  brew link --overwrite --dry-run boost
 ```
 
 ```
