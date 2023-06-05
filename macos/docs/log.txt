@@ -2364,3 +2364,22 @@ For more information about Homebrew and Python, see: https://docs.brew.sh/Homebr
 install: 322,938 (30 days), 12,025 (90 days), 1,685,985 (365 days)
 install-on-request: 54,963 (30 days), 3,085 (90 days), 193,550 (365 days)
 build-error: 423 (30 days)
+
+brew info watchman 
+==> watchman: stable 2023.05.22.00 (bottled), HEAD
+Watch files and take action when they change
+https://github.com/facebook/watchman
+/usr/local/Cellar/watchman/2023.05.22.00 (22 files, 14.9MB) *
+  Poured from bottle using the formulae.brew.sh API on 2023-06-05 at 19:24:21
+From: https://github.com/Homebrew/homebrew-core/blob/HEAD/Formula/watchman.rb
+License: MIT
+==> Dependencies
+Build: cmake ✘, cpptoml ✘, googletest ✘, pkg-config ✔, rust ✔
+Required: boost ✔, edencommon ✔, fb303 ✔, fmt ✔, folly ✔, gflags ✔, glog ✔, libevent ✔, openssl@1.1 ✔, pcre2 ✔, python@3.11 ✔
+==> Options
+--HEAD
+	Install HEAD version
+==> Analytics
+install: 69,765 (30 days), 3,838 (90 days), 817,989 (365 days)
+install-on-request: 58,034 (30 days), 3,837 (90 days), 817,251 (365 days)
+build-error: 347 (30 days)
