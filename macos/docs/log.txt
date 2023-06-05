@@ -1738,3 +1738,549 @@ And make sure that your user has write permission.
   chmod u+w /usr/local/bin
 
 sudo chown -R $(whoami) /usr/local/bin
+
+brew install node@16                  
+==> Fetching dependencies for node@16: c-ares, libnghttp2, libuv, ca-certificates and openssl@1.1
+==> Fetching c-ares
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/c-ares-1.19.1.monterey.bot
+######################################################################################### 100.0%
+==> Fetching libnghttp2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libnghttp2-1.53.0.monterey
+######################################################################################### 100.0%
+==> Fetching libuv
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libuv-1.45.0.monterey.bott
+######################################################################################### 100.0%
+==> Fetching ca-certificates
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/ca-certificates-2023-05-30
+######################################################################################### 100.0%
+==> Fetching openssl@1.1
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/openssl%401.1-1.1.1u.monte
+######################################################################################### 100.0%
+==> Fetching node@16
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/node%4016-16.20.0.monterey
+######################################################################################### 100.0%
+==> Installing dependencies for node@16: c-ares, libnghttp2, libuv, ca-certificates and openssl@1.1
+==> Installing node@16 dependency: c-ares
+==> Pouring c-ares-1.19.1.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/c-ares/1.19.1: 87 files, 661KB
+==> Installing node@16 dependency: libnghttp2
+==> Pouring libnghttp2-1.53.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/libnghttp2/1.53.0: 13 files, 721.2KB
+==> Installing node@16 dependency: libuv
+==> Pouring libuv-1.45.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/libuv/1.45.0: 47 files, 3MB
+==> Installing node@16 dependency: ca-certificates
+==> Pouring ca-certificates-2023-05-30.monterey.bottle.tar.gz
+==> Regenerating CA certificate bundle from keychain, this may take a while...
+🍺  /usr/local/Cellar/ca-certificates/2023-05-30: 3 files, 216.1KB
+==> Installing node@16 dependency: openssl@1.1
+==> Pouring openssl@1.1-1.1.1u.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/openssl@1.1/1.1.1u: 8,101 files, 18.5MB
+==> Installing node@16
+==> Pouring node@16-16.20.0.monterey.bottle.tar.gz
+==> Caveats
+node@16 is keg-only, which means it was not symlinked into /usr/local,
+because this is an alternate version of another formula.
+
+If you need to have node@16 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/node@16/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find node@16 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/node@16/lib"
+  export CPPFLAGS="-I/usr/local/opt/node@16/include"
+==> Summary
+🍺  /usr/local/Cellar/node@16/16.20.0: 1,890 files, 49.4MB
+==> Running `brew cleanup node@16`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Upgrading 18 dependents of upgraded formulae:
+Disable this behaviour by setting HOMEBREW_NO_INSTALLED_DEPENDENTS_CHECK.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+curl 7.87.0 -> 8.1.2, erlang 25.2.2 -> 25.3.2, freetds 1.3.17 -> 1.3.18, libfido2 1.12.0_1 -> 1.13.0, libpq 15.2 -> 15.3, libssh2 1.10.0 -> 1.11.0, mysql 8.0.32 -> 8.0.33, mysql-client 8.0.32 -> 8.0.33, mysql-connector-c++ 8.0.32 -> 8.0.33, nghttp2 1.40.0 -> 1.53.0, httpd 2.4.41_1 -> 2.4.57, node 19.6.0 -> 20.2.0, node@14 14.21.2_1 -> 14.21.3, openssl@3 3.0.8 -> 3.1.1, php 8.2.2 -> 8.2.6, rabbitmq 3.11.9 -> 3.12.0, rust 1.67.1 -> 1.69.0, shadowsocks-libev 3.3.4 -> 3.3.5_4
+==> Fetching openssl@3
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/openssl%403-3.1.1.monterey
+######################################################################################### 100.0%
+==> Fetching libpq
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libpq-15.3.monterey.bottle
+######################################################################################### 100.0%
+==> Fetching libfido2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libfido2-1.13.0.monterey.b
+######################################################################################### 100.0%
+==> Fetching dependencies for mysql-client: xz and zstd
+==> Fetching xz
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/xz-5.4.3.monterey.bottle.t
+######################################################################################### 100.0%
+==> Fetching zstd
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/zstd-1.5.5.monterey.bottle
+######################################################################################### 100.0%
+==> Fetching mysql-client
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/mysql-client-8.0.33.monter
+######################################################################################### 100.0%
+Warning: node@14 has been deprecated because it is not supported upstream!
+==> Fetching dependencies for node@14: sqlite and python@3.10
+==> Fetching sqlite
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/sqlite-3.42.0.monterey.bot
+######################################################################################### 100.0%
+==> Fetching python@3.10
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/python%403.10-3.10.11.mont
+######################################################################################### 100.0%
+==> Fetching node@14
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/node%4014-14.21.3.monterey
+######################################################################################### 100.0%
+==> Fetching libssh2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libssh2-1.11.0.monterey.bo
+######################################################################################### 100.0%
+==> Fetching curl
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/curl-8.1.2.monterey.bottle
+######################################################################################### 100.0%
+==> Fetching mysql
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/mysql-8.0.33.monterey.bott
+######################################################################################### 100.0%
+==> Fetching mysql-connector-c++
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/mysql-connector-c%2B%2B-8.
+######################################################################################### 100.0%
+==> Fetching dependencies for nghttp2: jemalloc and libev
+==> Fetching jemalloc
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/jemalloc-5.3.0.monterey.bo
+######################################################################################### 100.0%
+==> Fetching libev
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libev-4.33.monterey.bottle
+######################################################################################### 100.0%
+==> Fetching nghttp2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/nghttp2-1.53.0.monterey.bo
+######################################################################################### 100.0%
+==> Fetching dependencies for httpd: apr
+==> Fetching apr
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/apr-1.7.4.monterey.bottle.
+######################################################################################### 100.0%
+==> Fetching httpd
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/httpd-2.4.57.monterey.bott
+######################################################################################### 100.0%
+==> Fetching node
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/node-20.2.0.monterey.bottl
+######################################################################################### 100.0%
+==> Fetching freetds
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/freetds-1.3.18.monterey.bo
+######################################################################################### 100.0%
+==> Fetching dependencies for php: freetype, highway, imath, libtiff, little-cms2, openexr, webp, jpeg-xl, aom and gd
+==> Fetching freetype
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/freetype-2.13.0_1.monterey
+######################################################################################### 100.0%
+==> Fetching highway
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/highway-1.0.4.monterey.bot
+######################################################################################### 100.0%
+==> Fetching imath
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/imath-3.1.7.monterey.bottl
+######################################################################################### 100.0%
+==> Fetching libtiff
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/libtiff-4.5.0.monterey.bot
+######################################################################################### 100.0%
+==> Fetching little-cms2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/little-cms2-2.15.monterey.
+######################################################################################### 100.0%
+==> Fetching openexr
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/openexr-3.1.7.monterey.bot
+######################################################################################### 100.0%
+==> Fetching webp
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/webp-1.3.0_1.monterey.bott
+######################################################################################### 100.0%
+==> Fetching jpeg-xl
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/jpeg-xl-0.8.1_2.monterey.b
+######################################################################################### 100.0%
+==> Fetching aom
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/aom-3.6.1.monterey.bottle.
+######################################################################################### 100.0%
+==> Fetching gd
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/gd-2.3.3_5.monterey.bottle
+######################################################################################### 100.0%
+==> Fetching php
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/php-8.2.6.monterey.bottle.
+######################################################################################### 100.0%
+==> Fetching dependencies for erlang: wxwidgets
+==> Fetching wxwidgets
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/wxwidgets-3.2.2.1_1.monter
+######################################################################################### 100.0%
+==> Fetching erlang
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/erlang-25.3.2.monterey.bot
+######################################################################################### 100.0%
+==> Fetching rabbitmq
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/rabbitmq-3.12.0.all.bottle
+######################################################################################### 100.0%
+==> Fetching rust
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/rust-1.69.0.monterey.bottl
+######################################################################################### 100.0%
+==> Fetching dependencies for shadowsocks-libev: mbedtls@2
+==> Fetching mbedtls@2
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/mbedtls%402-2.28.3.montere
+######################################################################################### 100.0%
+==> Fetching shadowsocks-libev
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/shadowsocks-libev-3.3.5_4.
+######################################################################################### 100.0%
+==> Upgrading openssl@3
+  3.0.8 -> 3.1.1 
+
+==> Pouring openssl@3-3.1.1.monterey.bottle.tar.gz
+==> Downloading https://formulae.brew.sh/api/formula.jws.json
+-#O=#   #   #                                                                                  
+🍺  /usr/local/Cellar/openssl@3/3.1.1: 6,495 files, 30.0MB
+==> Running `brew cleanup openssl@3`...
+Removing: /usr/local/Cellar/openssl@3/3.0.8... (6,480 files, 28.5MB)
+==> Upgrading libpq
+  15.2 -> 15.3 
+
+==> Pouring libpq-15.3.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/libpq/15.3: 2,369 files, 28.2MB
+==> Running `brew cleanup libpq`...
+Removing: /usr/local/Cellar/libpq/15.2... (2,368 files, 28.1MB)
+==> Upgrading libfido2
+  1.12.0_1 -> 1.13.0 
+
+==> Pouring libfido2-1.13.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/libfido2/1.13.0: 547 files, 1.2MB
+==> Running `brew cleanup libfido2`...
+Removing: /usr/local/Cellar/libfido2/1.12.0_1... (538 files, 1.2MB)
+==> Upgrading mysql-client
+  8.0.32 -> 8.0.33 
+
+==> Installing dependencies for mysql-client: xz and zstd
+==> Installing mysql-client dependency: xz
+==> Pouring xz-5.4.3.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/xz/5.4.3: 162 files, 2.5MB
+==> Installing mysql-client dependency: zstd
+==> Pouring zstd-1.5.5.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/zstd/1.5.5: 31 files, 2.5MB
+==> Installing mysql-client
+==> Pouring mysql-client-8.0.33.monterey.bottle.1.tar.gz
+🍺  /usr/local/Cellar/mysql-client/8.0.33: 128 files, 149.3MB
+==> Running `brew cleanup mysql-client`...
+Removing: /usr/local/Cellar/mysql-client/8.0.32... (129 files, 149.3MB)
+==> Upgrading node@14
+  14.21.2_1 -> 14.21.3 
+
+==> Installing dependencies for node@14: sqlite and python@3.10
+==> Installing node@14 dependency: sqlite
+==> Pouring sqlite-3.42.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/sqlite/3.42.0: 11 files, 4.5MB
+==> Installing node@14 dependency: python@3.10
+==> Pouring python@3.10-3.10.11.monterey.bottle.tar.gz
+==> /usr/local/Cellar/python@3.10/3.10.11/bin/python3.10 -m ensurepip
+==> /usr/local/Cellar/python@3.10/3.10.11/bin/python3.10 -m pip install -v --no-deps --no-index 
+🍺  /usr/local/Cellar/python@3.10/3.10.11: 3,097 files, 56.5MB
+==> Installing node@14
+==> Pouring node@14-14.21.3.monterey.bottle.tar.gz
+==> Caveats
+node@14 is keg-only, which means it was not symlinked into /usr/local,
+because this is an alternate version of another formula.
+
+If you need to have node@14 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find node@14 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/node@14/lib"
+  export CPPFLAGS="-I/usr/local/opt/node@14/include"
+==> Summary
+🍺  /usr/local/Cellar/node@14/14.21.3: 4,001 files, 52.2MB
+==> Running `brew cleanup node@14`...
+Removing: /usr/local/Cellar/node@14/14.21.2_1... (3,954 files, 55.6MB)
+==> Upgrading libssh2
+  1.10.0 -> 1.11.0 
+
+==> Pouring libssh2-1.11.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/libssh2/1.11.0: 197 files, 1.1MB
+==> Running `brew cleanup libssh2`...
+Removing: /usr/local/Cellar/libssh2/1.10.0... (184 files, 998.5KB)
+==> Upgrading curl
+  7.87.0 -> 8.1.2 
+
+==> Pouring curl-8.1.2.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/curl/8.1.2: 510 files, 4.2MB
+==> Running `brew cleanup curl`...
+Removing: /usr/local/Cellar/curl/7.87.0... (510 files, 4.2MB)
+==> Upgrading mysql
+  8.0.32 -> 8.0.33 
+
+==> Pouring mysql-8.0.33.monterey.bottle.1.tar.gz
+==> Caveats
+We've installed your MySQL database without a root password. To secure it run:
+    mysql_secure_installation
+
+MySQL is configured to only allow connections from localhost by default
+
+To connect run:
+    mysql -u root
+
+To start mysql now and restart at login:
+  brew services start mysql
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/mysql/bin/mysqld_safe --datadir=/usr/local/var/mysql
+==> Summary
+🍺  /usr/local/Cellar/mysql/8.0.33: 318 files, 298.7MB
+==> Running `brew cleanup mysql`...
+Removing: /usr/local/Cellar/mysql/8.0.32... (317 files, 298.8MB)
+==> Upgrading mysql-connector-c++
+  8.0.32 -> 8.0.33 
+
+==> Pouring mysql-connector-c++-8.0.33.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/mysql-connector-c++/8.0.33: 40 files, 4.6MB
+==> Running `brew cleanup mysql-connector-c++`...
+Removing: /usr/local/Cellar/mysql-connector-c++/8.0.32... (40 files, 4.2MB)
+==> Upgrading nghttp2
+  1.40.0 -> 1.53.0 
+
+==> Installing dependencies for nghttp2: jemalloc and libev
+==> Installing nghttp2 dependency: jemalloc
+==> Pouring jemalloc-5.3.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/jemalloc/5.3.0: 16 files, 2.7MB
+==> Installing nghttp2 dependency: libev
+==> Pouring libev-4.33.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/libev/4.33: 12 files, 483.3KB
+==> Installing nghttp2
+==> Pouring nghttp2-1.53.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/nghttp2/1.53.0: 17 files, 2.3MB
+==> Running `brew cleanup nghttp2`...
+Removing: /usr/local/Cellar/nghttp2/1.40.0... (26 files, 2.7MB)
+==> Upgrading httpd
+  2.4.41_1 -> 2.4.57 
+
+==> Installing dependencies for httpd: apr
+==> Installing httpd dependency: apr
+==> Pouring apr-1.7.4.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/apr/1.7.4: 59 files, 1.4MB
+==> Installing httpd
+==> Pouring httpd-2.4.57.monterey.bottle.tar.gz
+==> Caveats
+DocumentRoot is /usr/local/var/www.
+
+The default ports have been set in /usr/local/etc/httpd/httpd.conf to 8080 and in
+/usr/local/etc/httpd/extra/httpd-ssl.conf to 8443 so that httpd can run without sudo.
+
+To restart httpd after an upgrade:
+  brew services restart httpd
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/httpd/bin/httpd -D FOREGROUND
+==> Summary
+🍺  /usr/local/Cellar/httpd/2.4.57: 1,663 files, 31.8MB
+==> Running `brew cleanup httpd`...
+Removing: /usr/local/Cellar/httpd/2.4.41_1... (1,652 files, 27.7MB)
+==> Upgrading node
+  19.6.0 -> 20.2.0 
+
+==> Pouring node-20.2.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/node/20.2.0: 2,439 files, 59.5MB
+==> Running `brew cleanup node`...
+Removing: /usr/local/Cellar/node/19.6.0... (2,154 files, 55.6MB)
+==> Upgrading freetds
+  1.3.17 -> 1.3.18 
+
+==> Pouring freetds-1.3.18.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/freetds/1.3.18: 1,262 files, 13.8MB
+==> Running `brew cleanup freetds`...
+Removing: /usr/local/Cellar/freetds/1.3.17... (1,262 files, 13.8MB)
+==> Upgrading php
+  8.2.2 -> 8.2.6 
+
+==> Installing dependencies for php: freetype, highway, imath, libtiff, little-cms2, openexr, webp, jpeg-xl, aom and gd
+==> Installing php dependency: freetype
+==> Pouring freetype-2.13.0_1.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/freetype/2.13.0_1: 67 files, 2.4MB
+==> Installing php dependency: highway
+==> Pouring highway-1.0.4.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/highway/1.0.4: 65 files, 4.0MB
+==> Installing php dependency: imath
+==> Pouring imath-3.1.7.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/imath/3.1.7: 49 files, 927.9KB
+==> Installing php dependency: libtiff
+==> Pouring libtiff-4.5.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/libtiff/4.5.0: 474 files, 8MB
+==> Installing php dependency: little-cms2
+==> Pouring little-cms2-2.15.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/little-cms2/2.15: 21 files, 1.3MB
+==> Installing php dependency: openexr
+==> Pouring openexr-3.1.7.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/openexr/3.1.7: 194 files, 5.9MB
+==> Installing php dependency: webp
+==> Pouring webp-1.3.0_1.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/webp/1.3.0_1: 63 files, 2.6MB
+==> Installing php dependency: jpeg-xl
+==> Pouring jpeg-xl-0.8.1_2.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/jpeg-xl/0.8.1_2: 43 files, 19.4MB
+==> Installing php dependency: aom
+==> Pouring aom-3.6.1.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/aom/3.6.1: 23 files, 13MB
+==> Installing php dependency: gd
+==> Pouring gd-2.3.3_5.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/gd/2.3.3_5: 33 files, 1.5MB
+==> Installing php
+==> Pouring php-8.2.6.monterey.bottle.tar.gz
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set php_ini /usr/local/etc/php/8.2/php.ini syste
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set php_dir /usr/local/share/pear system
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set doc_dir /usr/local/share/pear/doc system
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set ext_dir /usr/local/lib/php/pecl/20220829 sys
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set bin_dir /usr/local/opt/php/bin system
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set data_dir /usr/local/share/pear/data system
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set cfg_dir /usr/local/share/pear/cfg system
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set www_dir /usr/local/share/pear/htdocs system
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set man_dir /usr/local/share/man system
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set test_dir /usr/local/share/pear/test system
+==> /usr/local/Cellar/php/8.2.6/bin/pear config-set php_bin /usr/local/opt/php/bin/php system
+==> /usr/local/Cellar/php/8.2.6/bin/pear update-channels
+==> Caveats
+To enable PHP in Apache add the following to httpd.conf and restart Apache:
+    LoadModule php_module /usr/local/opt/php/lib/httpd/modules/libphp.so
+
+    <FilesMatch \.php$>
+        SetHandler application/x-httpd-php
+    </FilesMatch>
+
+Finally, check DirectoryIndex includes index.php
+    DirectoryIndex index.php index.html
+
+The php.ini and php-fpm.ini file can be found in:
+    /usr/local/etc/php/8.2/
+
+To start php now and restart at login:
+  brew services start php
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/php/sbin/php-fpm --nodaemonize
+==> Summary
+🍺  /usr/local/Cellar/php/8.2.6: 520 files, 81.8MB
+==> Running `brew cleanup php`...
+Removing: /usr/local/Cellar/php/8.2.2... (519 files, 81.8MB)
+==> Upgrading erlang
+  25.2.2 -> 25.3.2 
+
+==> Installing dependencies for erlang: wxwidgets
+==> Installing erlang dependency: wxwidgets
+==> Pouring wxwidgets-3.2.2.1_1.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/wxwidgets/3.2.2.1_1: 834 files, 25.3MB
+==> Installing erlang
+==> Pouring erlang-25.3.2.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/erlang/25.3.2: 7,888 files, 489MB
+==> Running `brew cleanup erlang`...
+Removing: /usr/local/Cellar/erlang/25.2.2... (7,888 files, 488.5MB)
+==> Upgrading rabbitmq
+  3.11.9 -> 3.12.0 
+
+==> Pouring rabbitmq-3.12.0.all.bottle.tar.gz
+==> Caveats
+Management Plugin enabled by default at http://localhost:15672
+
+To start rabbitmq now and restart at login:
+  brew services start rabbitmq
+Or, if you don't want/need a background service you can just run:
+  CONF_ENV_FILE="/usr/local/etc/rabbitmq/rabbitmq-env.conf" /usr/local/opt/rabbitmq/sbin/rabbitmq-server
+==> Summary
+🍺  /usr/local/Cellar/rabbitmq/3.12.0: 1,433 files, 34.1MB
+==> Running `brew cleanup rabbitmq`...
+Removing: /usr/local/Cellar/rabbitmq/3.11.9... (1,415 files, 33.7MB)
+==> Upgrading rust
+  1.67.1 -> 1.69.0 
+
+==> Pouring rust-1.69.0.monterey.bottle.tar.gz
+==> Downloading https://formulae.brew.sh/api/formula.jws.json
+-=#=-#   #    #                                                                                
+==> Caveats
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/rust/1.69.0: 36,162 files, 883.9MB
+==> Running `brew cleanup rust`...
+Removing: /usr/local/Cellar/rust/1.67.1... (36,041 files, 899.3MB)
+==> Upgrading shadowsocks-libev
+  3.3.4 -> 3.3.5_4 
+
+==> Installing dependencies for shadowsocks-libev: mbedtls@2
+==> Installing shadowsocks-libev dependency: mbedtls@2
+==> Pouring mbedtls@2-2.28.3.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/mbedtls@2/2.28.3: 166 files, 7.9MB
+==> Installing shadowsocks-libev
+==> Pouring shadowsocks-libev-3.3.5_4.monterey.bottle.tar.gz
+==> Caveats
+To start shadowsocks-libev now and restart at login:
+  brew services start shadowsocks-libev
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/shadowsocks-libev/bin/ss-local -c /usr/local/etc/shadowsocks-libev.json
+==> Summary
+🍺  /usr/local/Cellar/shadowsocks-libev/3.3.5_4: 30 files, 1.1MB
+==> Running `brew cleanup shadowsocks-libev`...
+Removing: /usr/local/Cellar/shadowsocks-libev/3.3.4... (29 files, 1MB)
+==> Checking for dependents of upgraded formulae...
+==> No broken dependents to reinstall!
+==> Caveats
+==> node@16
+node@16 is keg-only, which means it was not symlinked into /usr/local,
+because this is an alternate version of another formula.
+
+If you need to have node@16 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/node@16/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find node@16 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/node@16/lib"
+  export CPPFLAGS="-I/usr/local/opt/node@16/include"
+==> node@14
+node@14 is keg-only, which means it was not symlinked into /usr/local,
+because this is an alternate version of another formula.
+
+If you need to have node@14 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find node@14 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/node@14/lib"
+  export CPPFLAGS="-I/usr/local/opt/node@14/include"
+==> mysql
+We've installed your MySQL database without a root password. To secure it run:
+    mysql_secure_installation
+
+MySQL is configured to only allow connections from localhost by default
+
+To connect run:
+    mysql -u root
+
+To start mysql now and restart at login:
+  brew services start mysql
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/mysql/bin/mysqld_safe --datadir=/usr/local/var/mysql
+==> httpd
+DocumentRoot is /usr/local/var/www.
+
+The default ports have been set in /usr/local/etc/httpd/httpd.conf to 8080 and in
+/usr/local/etc/httpd/extra/httpd-ssl.conf to 8443 so that httpd can run without sudo.
+
+To restart httpd after an upgrade:
+  brew services restart httpd
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/httpd/bin/httpd -D FOREGROUND
+==> php
+To enable PHP in Apache add the following to httpd.conf and restart Apache:
+    LoadModule php_module /usr/local/opt/php/lib/httpd/modules/libphp.so
+
+    <FilesMatch \.php$>
+        SetHandler application/x-httpd-php
+    </FilesMatch>
+
+Finally, check DirectoryIndex includes index.php
+    DirectoryIndex index.php index.html
+
+The php.ini and php-fpm.ini file can be found in:
+    /usr/local/etc/php/8.2/
+
+To start php now and restart at login:
+  brew services start php
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/php/sbin/php-fpm --nodaemonize
+==> rabbitmq
+Management Plugin enabled by default at http://localhost:15672
+
+To start rabbitmq now and restart at login:
+  brew services start rabbitmq
+Or, if you don't want/need a background service you can just run:
+  CONF_ENV_FILE="/usr/local/etc/rabbitmq/rabbitmq-env.conf" /usr/local/opt/rabbitmq/sbin/rabbitmq-server
+==> rust
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> shadowsocks-libev
+To start shadowsocks-libev now and restart at login:
+  brew services start shadowsocks-libev
+Or, if you don't want/need a background service you can just run:
+  /usr/local/opt/shadowsocks-libev/bin/ss-local -c /usr/local/etc/shadowsocks-libev.json
+
