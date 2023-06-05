@@ -2289,3 +2289,36 @@ ss-local -c /usr/local/etc/shadowsocks-libev1.json -u
  2023-06-05 18:22:05 INFO: listening at 127.0.0.1:1080
  2023-06-05 18:22:05 INFO: udprelay enabled
  2023-06-05 18:22:05 ERROR: setting ipv6 dscp failed: 22
+
+ brew install nvm
+==> Downloading https://formulae.brew.sh/api/formula.jws.json
+######################################################################################### 100.0%
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+######################################################################################### 100.0%
+==> Fetching nvm
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/nvm-0.39.3.all.bottle.tar.
+######################################################################################### 100.0%
+==> Pouring nvm-0.39.3.all.bottle.tar.gz
+==> Caveats
+Please note that upstream has asked us to make explicit managing
+nvm via Homebrew is unsupported by them and you should check any
+problems against the standard nvm install method prior to reporting.
+
+You should create NVM's working directory if it doesn't exist:
+  mkdir ~/.nvm
+
+Add the following to your shell profile e.g. ~/.profile or ~/.zshrc:
+  export NVM_DIR="$HOME/.nvm"
+  [ -s "/usr/local/opt/nvm/nvm.sh" ] && \. "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
+  [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+
+You can set $NVM_DIR to any location, but leaving it unchanged from
+/usr/local/Cellar/nvm/0.39.3 will destroy any nvm-installed Node installations
+upon upgrade/reinstall.
+
+Type `nvm help` for further information.
+==> Summary
+🍺  /usr/local/Cellar/nvm/0.39.3: 9 files, 190.5KB
+==> Running `brew cleanup nvm`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
