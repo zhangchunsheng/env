@@ -1724,3 +1724,17 @@ install-on-request: 120,068 (30 days), 16,682 (90 days), 3,561,808 (365 days)
 build-error: 438 (30 days)
 
 brew install node@16
+==> Downloading https://formulae.brew.sh/api/formula.jws.json
+######################################################################################### 100.0%
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+######################################################################################### 100.0%
+Error: The following directories are not writable by your user:
+/usr/local/bin
+
+You should change the ownership of these directories to your user.
+  sudo chown -R $(whoami) /usr/local/bin
+
+And make sure that your user has write permission.
+  chmod u+w /usr/local/bin
+
+sudo chown -R $(whoami) /usr/local/bin
