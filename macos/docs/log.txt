@@ -1672,6 +1672,7 @@ u -h -d 1 ~/Library/Caches|grep G
   0B	/Users/peterzhang/Library/Caches/QAPMCONFIGHIT
  10G	/Users/peterzhang/Library/Caches
 
+2023-06-05
 brew update
 ==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/bottles-portable-ruby/portable-ruby-2.6.10_1.el_capitan.bottle.tar.gz
 ######################################################################################### 100.0%
@@ -1721,3 +1722,5 @@ Required: brotli ✔, c-ares ✘, icu4c ✔, libnghttp2 ✘, libuv ✘, openssl@
 install: 200,999 (30 days), 18,323 (90 days), 4,029,797 (365 days)
 install-on-request: 120,068 (30 days), 16,682 (90 days), 3,561,808 (365 days)
 build-error: 438 (30 days)
+
+brew install node@16
