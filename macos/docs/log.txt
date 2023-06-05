@@ -2284,3 +2284,8 @@ To start shadowsocks-libev now and restart at login:
 Or, if you don't want/need a background service you can just run:
   /usr/local/opt/shadowsocks-libev/bin/ss-local -c /usr/local/etc/shadowsocks-libev.json
 
+ss-local -c /usr/local/etc/shadowsocks-libev1.json -u
+ 2023-06-05 18:22:05 INFO: initializing ciphers... aes-256-gcm
+ 2023-06-05 18:22:05 INFO: listening at 127.0.0.1:1080
+ 2023-06-05 18:22:05 INFO: udprelay enabled
+ 2023-06-05 18:22:05 ERROR: setting ipv6 dscp failed: 22
