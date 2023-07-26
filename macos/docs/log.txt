@@ -2383,3 +2383,330 @@ Required: boost ✔, edencommon ✔, fb303 ✔, fmt ✔, folly ✔, gflags ✔, 
 install: 69,765 (30 days), 3,838 (90 days), 817,989 (365 days)
 install-on-request: 58,034 (30 days), 3,837 (90 days), 817,251 (365 days)
 build-error: 347 (30 days)
+
+brew install md5sha1sum
+Running `brew update --auto-update`...
+Error: Failed to download https://formulae.brew.sh/api/cask.jws.json!
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+#######                                                                                     8.8%curl: (28) Operation too slow. Less than 100 bytes/sec transferred the last 5 seconds
+
+Warning: cask.jws.json: update failed, falling back to cached version.
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+######################################################################################### 100.0%
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/core).
+==> New Formulae
+adb-enhanced                    gotestsum                       pypy3.10
+alass                           govulncheck                     pypy3.9
+argparse                        grpc@1.54                       python-cryptography
+bacon                           grype                           python-toml
+bbot                            hex                             quictls
+bfs                             hivex                           rio
+bilix                           hoverfly                        ruff-lsp
+blades                          ittapi                          runme
+blink                           jsign                           scrapy
+botan@2                         jsmn                            sh4d0wup
+cargo-binstall                  judy                            shub
+cargo-generate                  libdivsufsort                   shush
+cbonsai                         libversion                      sickchill
+charls                          llm                             slsa-verifier
+conda-lock                      lowdown                         solr@8.11
+core-lightning                  lr                              sqlpage
+couchbase-shell                 ls-lint                         strip-nondeterminism
+cppinsights                     mailpit                         terragrunt-atlantis-config
+crabz                           mariadb@10.11                   trufflehog
+crystalline                     minigraph                       trzsz-ssh
+cycode                          mvfst                           typical
+driftwood                       mvt                             tzdiff
+dysk                            neonctl                         webpod
+erg                             ntbtls                          wget2
+erlang@25                       ord                             woof-doom
+espflash                        pgrok                           wpscan
+fuc                             pixi                            xe
+fw                              plog                            yyjson
+getmail6                        pop                             zchunk
+gffread                         protobuf@21                     zrok
+git-tools                       proxygen
+go-feature-flag                 pylyzer
+
+You have 108 outdated formulae installed.
+
+==> Fetching dependencies for md5sha1sum: openssl@3
+==> Fetching openssl@3
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/openssl%403-3.1.1_1.monter
+######################################################################################### 100.0%
+==> Fetching md5sha1sum
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/md5sha1sum-0.9.5_1.montere
+######################################################################################### 100.0%
+==> Installing dependencies for md5sha1sum: openssl@3
+==> Installing md5sha1sum dependency: openssl@3
+==> Pouring openssl@3-3.1.1_1.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/openssl@3/3.1.1_1: 6,495 files, 30.0MB
+==> Installing md5sha1sum
+==> Pouring md5sha1sum-0.9.5_1.monterey.bottle.1.tar.gz
+🍺  /usr/local/Cellar/md5sha1sum/0.9.5_1: 8 files, 74.5KB
+==> Running `brew cleanup md5sha1sum`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> `brew cleanup` has not been run in the last 30 days, running now...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /usr/local/Cellar/aom/3.6.0... (23 files, 13MB)
+Removing: /usr/local/Cellar/apr/1.7.2... (59 files, 1.4MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/boost--1.81.0_1.monterey.bottle.tar.gz... (86.4MB)
+Removing: /usr/local/Cellar/c-ares/1.19.0... (87 files, 656KB)
+Removing: /usr/local/Cellar/ca-certificates/2023-01-10... (3 files, 216.8KB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/curl--8.1.2.monterey.bottle.tar.gz... (1.3MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/edencommon--2023.05.22.00.monterey.bottle.tar.gz... (54.8KB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/erlang--25.3.2.monterey.bottle.tar.gz... (109MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/fb303--2023.05.22.00.monterey.bottle.tar.gz... (684.9KB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/fbthrift--2023.05.22.00.monterey.bottle.tar.gz... (4.8MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/fizz--2023.05.22.00.monterey.bottle.tar.gz... (1MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/folly--2023.05.22.00.monterey.bottle.tar.gz... (5.9MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/freetype--2.13.0_1.monterey.bottle.tar.gz... (943.5KB)
+Removing: /usr/local/Cellar/gd/2.3.3_4... (33 files, 1.5MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/highway--1.0.4.monterey.bottle.tar.gz... (1017.9KB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/imath--3.1.7.monterey.bottle.tar.gz... (182.6KB)
+Removing: /usr/local/Cellar/jemalloc/5.2.1... (16 files, 1.9MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/jpeg-xl--0.8.1_2.monterey.bottle.tar.gz... (6.2MB)
+Removing: /usr/local/Cellar/libev/4.31... (12 files, 451.3KB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/libnghttp2--1.53.0.monterey.bottle.tar.gz... (213.9KB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/libtiff--4.5.0.monterey.bottle.tar.gz... (1.8MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/libuv--1.45.0.monterey.bottle.tar.gz... (1.2MB)
+Removing: /usr/local/Cellar/little-cms2/2.14... (21 files, 1.3MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/mysql--8.0.33.monterey.bottle.1.tar.gz... (79.2MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/mysql-client--8.0.33.monterey.bottle.1.tar.gz... (40.0MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/nghttp2--1.53.0.monterey.bottle.tar.gz... (801.3KB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/node--20.2.0.monterey.bottle.tar.gz... (14.8MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/node@16--16.20.0.monterey.bottle.tar.gz... (12.8MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/openexr--3.1.7.monterey.bottle.tar.gz... (1.4MB)
+Removing: /usr/local/Cellar/openssl@1.1/1.1.1t... (8,101 files, 18.5MB)
+Removing: /usr/local/Cellar/openssl@3/3.1.1... (6,495 files, 30.0MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/php--8.2.6.monterey.bottle.tar.gz... (19.8MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/python@3.10--3.10.11.monterey.bottle.tar.gz... (14.6MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/python@3.11--3.11.3.monterey.bottle.tar.gz... (15.2MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/rabbitmq--3.12.0.all.bottle.tar.gz... (28.1MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/rust--1.69.0.monterey.bottle.tar.gz... (163.7MB)
+Removing: /usr/local/Cellar/sqlite/3.40.1... (11 files, 4.4MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/wangle--2023.05.22.00.monterey.bottle.tar.gz... (824.7KB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/watchman--2023.05.22.00.monterey.bottle.tar.gz... (3.3MB)
+Removing: /Users/peterzhang/Library/Caches/Homebrew/webp--1.3.0_1.monterey.bottle.tar.gz... (928KB)
+Removing: /usr/local/Cellar/wxwidgets/3.2.2.1... (834 files, 25.5MB)
+Removing: /usr/local/Cellar/xz/5.4.1... (95 files, 1.6MB)
+Removing: /usr/local/Cellar/zstd/1.5.4... (31 files, 2.5MB)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/libtiff... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/wxwidgets... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/nghttp2... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/little-cms2... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/mysql-client... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/mysql-connector-c++... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/libuv... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/freetype... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/imath... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/wangle... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/boost... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/fmt... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/highway... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/jemalloc... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/rust... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/glog... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/erlang... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/edencommon... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/aom... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/mbedtls@2... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/rabbitmq... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/webp... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/sqlite... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/c-ares... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/php... (12 files, 2.2KB)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/fbthrift... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/xz... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/node@16... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/nvm... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/libnghttp2... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/openexr... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/double-conversion... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/gflags... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/curl... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/libfido2... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/httpd... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/snappy... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/freetds... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/openssl@3... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/ca-certificates... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/libssh2... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/zstd... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/mysql... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/watchman... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/apr... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/libpq... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/gd... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/openssl@1.1... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/shadowsocks-libev... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/jpeg-xl... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/python@3.10... (2 files, 2.5KB)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/node... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/python@3.11... (2 files, 2.5KB)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/node@14... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/folly... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/fb303... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/libev... (64B)
+Removing: /Users/peterzhang/Library/Logs/Homebrew/fizz... (64B)
+Pruned 2 symbolic links and 8 directories from /usr/local
+
+./download.sh          
+Enter the URL from email: https://download.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiXHUwMDBmUj8mPn8%7EPyIsIlJlc291cmNlIjoiaHR0cHM6XC9cL2Rvd25sb2FkLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODk5MzMwMzd9fX1dfQ__&Signature=icvE0UYIjADwbPD2uRrbcJX%7EOwUkrvabeGEhSTn1fzawqI01dpO6C2weAQrN7rjor7VmgV8-MdpKKI58zFjsIyAUNzm%7E6q%7E2g7uy%7EF4lSUn9XpFrK3Mr8mP2Hr1YKG2A9dhBYawcEFPsAdX9t7OyFDr%7EenQJlX7VnhrmaQDJE9MjbHXncQYoSd45XFCGgGlYuR9%7Ez75DPTjUME7XSd4L8Wpw6rH0uw4qvOlK6V6JbNF0bzNfbnzZixPtuj%7EGocsAPR8BKAFIm0w4NLMZKdLMzXjJ%7EalihawwfpI%7E2sctZUoDIJXDmx7V3ZAgIuIfB2o9rKF-wN4Gdw2tfFxSok%7Ewrw__&Key-Pair-Id=K15QRJLYKIFSLZ
+
+Enter the list of models to download without spaces (7B,13B,70B,7B-chat,13B-chat,70B-chat), or press Enter for all: 7B
+Downloading LICENSE and Acceptable Usage Policy
+dyld[48121]: Library not loaded: '/usr/local/opt/libunistring/lib/libunistring.2.dylib'
+  Referenced from: '/usr/local/Cellar/wget/1.20.3_2/bin/wget'
+  Reason: tried: '/usr/local/opt/libunistring/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file), '/usr/local/Cellar/libunistring/1.1/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file)
+./download.sh: line 17: 48121 Abort trap: 6           wget ${PRESIGNED_URL/'*'/"LICENSE"} -O ${TARGET_FOLDER}"/LICENSE"
+dyld[48122]: Library not loaded: '/usr/local/opt/libunistring/lib/libunistring.2.dylib'
+  Referenced from: '/usr/local/Cellar/wget/1.20.3_2/bin/wget'
+  Reason: tried: '/usr/local/opt/libunistring/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file), '/usr/local/Cellar/libunistring/1.1/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file)
+./download.sh: line 18: 48122 Abort trap: 6           wget ${PRESIGNED_URL/'*'/"USE_POLICY.md"} -O ${TARGET_FOLDER}"/USE_POLICY.md"
+Downloading tokenizer
+dyld[48123]: Library not loaded: '/usr/local/opt/libunistring/lib/libunistring.2.dylib'
+  Referenced from: '/usr/local/Cellar/wget/1.20.3_2/bin/wget'
+  Reason: tried: '/usr/local/opt/libunistring/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file), '/usr/local/Cellar/libunistring/1.1/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file)
+./download.sh: line 21: 48123 Abort trap: 6           wget ${PRESIGNED_URL/'*'/"tokenizer.model"} -O ${TARGET_FOLDER}"/tokenizer.model"
+dyld[48124]: Library not loaded: '/usr/local/opt/libunistring/lib/libunistring.2.dylib'
+  Referenced from: '/usr/local/Cellar/wget/1.20.3_2/bin/wget'
+  Reason: tried: '/usr/local/opt/libunistring/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file), '/usr/local/Cellar/libunistring/1.1/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file)
+./download.sh: line 22: 48124 Abort trap: 6           wget ${PRESIGNED_URL/'*'/"tokenizer_checklist.chk"} -O ${TARGET_FOLDER}"/tokenizer_checklist.chk"
+parseopts.c:76: setup_check: fopen 'tokenizer_checklist.chk': No such file or directory
+Downloading llama-2-7b
+dyld[48129]: Library not loaded: '/usr/local/opt/libunistring/lib/libunistring.2.dylib'
+  Referenced from: '/usr/local/Cellar/wget/1.20.3_2/bin/wget'
+  Reason: tried: '/usr/local/opt/libunistring/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file), '/usr/local/Cellar/libunistring/1.1/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file)
+./download.sh: line 50: 48129 Abort trap: 6           wget ${PRESIGNED_URL/'*'/"${MODEL_PATH}/consolidated.${s}.pth"} -O ${TARGET_FOLDER}"/${MODEL_PATH}/consolidated.${s}.pth"
+dyld[48130]: Library not loaded: '/usr/local/opt/libunistring/lib/libunistring.2.dylib'
+  Referenced from: '/usr/local/Cellar/wget/1.20.3_2/bin/wget'
+  Reason: tried: '/usr/local/opt/libunistring/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file), '/usr/local/Cellar/libunistring/1.1/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file)
+./download.sh: line 25: 48130 Abort trap: 6           wget ${PRESIGNED_URL/'*'/"${MODEL_PATH}/params.json"} -O ${TARGET_FOLDER}"/${MODEL_PATH}/params.json"
+dyld[48131]: Library not loaded: '/usr/local/opt/libunistring/lib/libunistring.2.dylib'
+  Referenced from: '/usr/local/Cellar/wget/1.20.3_2/bin/wget'
+  Reason: tried: '/usr/local/opt/libunistring/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file), '/usr/local/Cellar/libunistring/1.1/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file)
+./download.sh: line 25: 48131 Abort trap: 6           wget ${PRESIGNED_URL/'*'/"${MODEL_PATH}/checklist.chk"} -O ${TARGET_FOLDER}"/${MODEL_PATH}/checklist.chk"
+Checking checksums
+parseopts.c:76: setup_check: fopen 'checklist.chk': No such file or directory
+
+wget
+dyld[49045]: Library not loaded: '/usr/local/opt/libunistring/lib/libunistring.2.dylib'
+  Referenced from: '/usr/local/Cellar/wget/1.20.3_2/bin/wget'
+  Reason: tried: '/usr/local/opt/libunistring/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file), '/usr/local/Cellar/libunistring/1.1/lib/libunistring.2.dylib' (no such file), '/usr/local/lib/libunistring.2.dylib' (no such file), '/usr/lib/libunistring.2.dylib' (no such file)
+zsh: abort      wget
+
+brew install wget
+brew update --auto-update
+
+brew install wget
+Running `brew update --auto-update`...
+
+Error: Failed to download https://formulae.brew.sh/api/cask.jws.json!
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+######################################################################################### 100.0%
+wget 1.20.3_2 is already installed but outdated (so it will be upgraded).
+==> Fetching wget
+==> Downloading https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/wget-1.21.4.monterey.bottl
+######################################################################################### 100.0%
+==> Upgrading wget
+  1.20.3_2 -> 1.21.4 
+
+==> Pouring wget-1.21.4.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/wget/1.21.4: 91 files, 4.4MB
+==> Running `brew cleanup wget`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /usr/local/Cellar/wget/1.20.3_2... (50 files, 4.0MB)
+
+./download.sh
+Enter the URL from email: https://download.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiPz9RJ1FcdTAwMTJcXD8iLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkwMzYyNTM2fX19XX0_&Signature=aqmuAYs3MpWTcBT4ppClMOMjVplCCpqlPDat-ZfZFhMZC5Nf1NvIsfT7jjM%7EVeNxscLTSZ7HGZg9NVjcPuTSgz6GARBe1-5gBRjsdn2Jq63w8CB6rGPe9R4MTukf5ejDIvYPaphxwlLc3IDSR7TABS7vTo3UzBFWR3eIb9qNL-lboHnZM5c2UHC1NmB0rbCPifg1ERMB765qb1ZSv2FBhQnCs7QpEJQyOAuM4%7ExWN-SFTeJ1q1EmIgEWJbdGEoAzq9qwv4UE1TCQ0qrHGc6wNG2mBm401RQFjmx7ojCfUTRs10gx15JA02CSJz68FbdAYDw0D5VEBECRBRgNhf8asA__&Key-Pair-Id=K15QRJLYKIFSLZ
+
+Enter the list of models to download without spaces (7B,13B,70B,7B-chat,13B-chat,70B-chat), or press Enter for all: 7B
+Downloading LICENSE and Acceptable Usage Policy
+--2023-07-25 17:11:30--  https://download.llamameta.net/LICENSE?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiPz9RJ1FcdTAwMTJcXD8iLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkwMzYyNTM2fX19XX0_&Signature=aqmuAYs3MpWTcBT4ppClMOMjVplCCpqlPDat-ZfZFhMZC5Nf1NvIsfT7jjM%7EVeNxscLTSZ7HGZg9NVjcPuTSgz6GARBe1-5gBRjsdn2Jq63w8CB6rGPe9R4MTukf5ejDIvYPaphxwlLc3IDSR7TABS7vTo3UzBFWR3eIb9qNL-lboHnZM5c2UHC1NmB0rbCPifg1ERMB765qb1ZSv2FBhQnCs7QpEJQyOAuM4%7ExWN-SFTeJ1q1EmIgEWJbdGEoAzq9qwv4UE1TCQ0qrHGc6wNG2mBm401RQFjmx7ojCfUTRs10gx15JA02CSJz68FbdAYDw0D5VEBECRBRgNhf8asA__&Key-Pair-Id=K15QRJLYKIFSLZ
+Resolving download.llamameta.net (download.llamameta.net)... 54.192.18.39, 54.192.18.67, 54.192.18.89
+Connecting to download.llamameta.net (download.llamameta.net)|54.192.18.39|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7020 (6.9K) [binary/octet-stream]
+Saving to: ‘./LICENSE’
+
+./LICENSE               100%[===============================>]   6.86K  --.-KB/s    in 0s      
+
+2023-07-25 17:11:30 (29.6 MB/s) - ‘./LICENSE’ saved [7020/7020]
+
+--2023-07-25 17:11:30--  https://download.llamameta.net/USE_POLICY.md?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiPz9RJ1FcdTAwMTJcXD8iLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkwMzYyNTM2fX19XX0_&Signature=aqmuAYs3MpWTcBT4ppClMOMjVplCCpqlPDat-ZfZFhMZC5Nf1NvIsfT7jjM%7EVeNxscLTSZ7HGZg9NVjcPuTSgz6GARBe1-5gBRjsdn2Jq63w8CB6rGPe9R4MTukf5ejDIvYPaphxwlLc3IDSR7TABS7vTo3UzBFWR3eIb9qNL-lboHnZM5c2UHC1NmB0rbCPifg1ERMB765qb1ZSv2FBhQnCs7QpEJQyOAuM4%7ExWN-SFTeJ1q1EmIgEWJbdGEoAzq9qwv4UE1TCQ0qrHGc6wNG2mBm401RQFjmx7ojCfUTRs10gx15JA02CSJz68FbdAYDw0D5VEBECRBRgNhf8asA__&Key-Pair-Id=K15QRJLYKIFSLZ
+Resolving download.llamameta.net (download.llamameta.net)... 54.192.18.67, 54.192.18.39, 54.192.18.89
+Connecting to download.llamameta.net (download.llamameta.net)|54.192.18.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4766 (4.7K) [binary/octet-stream]
+Saving to: ‘./USE_POLICY.md’
+
+./USE_POLICY.md         100%[===============================>]   4.65K  --.-KB/s    in 0s      
+
+2023-07-25 17:11:31 (267 MB/s) - ‘./USE_POLICY.md’ saved [4766/4766]
+
+Downloading tokenizer
+--2023-07-25 17:11:31--  https://download.llamameta.net/tokenizer.model?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiPz9RJ1FcdTAwMTJcXD8iLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkwMzYyNTM2fX19XX0_&Signature=aqmuAYs3MpWTcBT4ppClMOMjVplCCpqlPDat-ZfZFhMZC5Nf1NvIsfT7jjM%7EVeNxscLTSZ7HGZg9NVjcPuTSgz6GARBe1-5gBRjsdn2Jq63w8CB6rGPe9R4MTukf5ejDIvYPaphxwlLc3IDSR7TABS7vTo3UzBFWR3eIb9qNL-lboHnZM5c2UHC1NmB0rbCPifg1ERMB765qb1ZSv2FBhQnCs7QpEJQyOAuM4%7ExWN-SFTeJ1q1EmIgEWJbdGEoAzq9qwv4UE1TCQ0qrHGc6wNG2mBm401RQFjmx7ojCfUTRs10gx15JA02CSJz68FbdAYDw0D5VEBECRBRgNhf8asA__&Key-Pair-Id=K15QRJLYKIFSLZ
+Resolving download.llamameta.net (download.llamameta.net)... 54.192.18.39, 54.192.18.89, 54.192.18.67
+Connecting to download.llamameta.net (download.llamameta.net)|54.192.18.39|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 499723 (488K) [binary/octet-stream]
+Saving to: ‘./tokenizer.model’
+
+./tokenizer.model       100%[===============================>] 488.01K  2.69MB/s    in 0.2s    
+
+2023-07-25 17:11:31 (2.69 MB/s) - ‘./tokenizer.model’ saved [499723/499723]
+
+--2023-07-25 17:11:31--  https://download.llamameta.net/tokenizer_checklist.chk?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiPz9RJ1FcdTAwMTJcXD8iLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkwMzYyNTM2fX19XX0_&Signature=aqmuAYs3MpWTcBT4ppClMOMjVplCCpqlPDat-ZfZFhMZC5Nf1NvIsfT7jjM%7EVeNxscLTSZ7HGZg9NVjcPuTSgz6GARBe1-5gBRjsdn2Jq63w8CB6rGPe9R4MTukf5ejDIvYPaphxwlLc3IDSR7TABS7vTo3UzBFWR3eIb9qNL-lboHnZM5c2UHC1NmB0rbCPifg1ERMB765qb1ZSv2FBhQnCs7QpEJQyOAuM4%7ExWN-SFTeJ1q1EmIgEWJbdGEoAzq9qwv4UE1TCQ0qrHGc6wNG2mBm401RQFjmx7ojCfUTRs10gx15JA02CSJz68FbdAYDw0D5VEBECRBRgNhf8asA__&Key-Pair-Id=K15QRJLYKIFSLZ
+Resolving download.llamameta.net (download.llamameta.net)... 54.192.18.39, 54.192.18.89, 54.192.18.67
+Connecting to download.llamameta.net (download.llamameta.net)|54.192.18.39|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50 [binary/octet-stream]
+Saving to: ‘./tokenizer_checklist.chk’
+
+./tokenizer_checklist.c 100%[===============================>]      50  --.-KB/s    in 0s      
+
+2023-07-25 17:11:32 (3.41 MB/s) - ‘./tokenizer_checklist.chk’ saved [50/50]
+
+tokenizer.model: OK
+Downloading llama-2-7b
+--2023-07-25 17:11:32--  https://download.llamameta.net/llama-2-7b/consolidated.00.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiPz9RJ1FcdTAwMTJcXD8iLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkwMzYyNTM2fX19XX0_&Signature=aqmuAYs3MpWTcBT4ppClMOMjVplCCpqlPDat-ZfZFhMZC5Nf1NvIsfT7jjM%7EVeNxscLTSZ7HGZg9NVjcPuTSgz6GARBe1-5gBRjsdn2Jq63w8CB6rGPe9R4MTukf5ejDIvYPaphxwlLc3IDSR7TABS7vTo3UzBFWR3eIb9qNL-lboHnZM5c2UHC1NmB0rbCPifg1ERMB765qb1ZSv2FBhQnCs7QpEJQyOAuM4%7ExWN-SFTeJ1q1EmIgEWJbdGEoAzq9qwv4UE1TCQ0qrHGc6wNG2mBm401RQFjmx7ojCfUTRs10gx15JA02CSJz68FbdAYDw0D5VEBECRBRgNhf8asA__&Key-Pair-Id=K15QRJLYKIFSLZ
+Resolving download.llamameta.net (download.llamameta.net)... 54.192.18.39, 54.192.18.89, 54.192.18.67
+Connecting to download.llamameta.net (download.llamameta.net)|54.192.18.39|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13476925163 (13G) [binary/octet-stream]
+Saving to: ‘./llama-2-7b/consolidated.00.pth’
+
+./llama-2-7b/consolidat 100%[===============================>]  12.55G  18.2MB/s    in 11m 24s 
+
+2023-07-25 17:22:58 (18.8 MB/s) - ‘./llama-2-7b/consolidated.00.pth’ saved [13476925163/13476925163]
+
+--2023-07-25 17:22:58--  https://download.llamameta.net/llama-2-7b/params.json?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiPz9RJ1FcdTAwMTJcXD8iLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkwMzYyNTM2fX19XX0_&Signature=aqmuAYs3MpWTcBT4ppClMOMjVplCCpqlPDat-ZfZFhMZC5Nf1NvIsfT7jjM%7EVeNxscLTSZ7HGZg9NVjcPuTSgz6GARBe1-5gBRjsdn2Jq63w8CB6rGPe9R4MTukf5ejDIvYPaphxwlLc3IDSR7TABS7vTo3UzBFWR3eIb9qNL-lboHnZM5c2UHC1NmB0rbCPifg1ERMB765qb1ZSv2FBhQnCs7QpEJQyOAuM4%7ExWN-SFTeJ1q1EmIgEWJbdGEoAzq9qwv4UE1TCQ0qrHGc6wNG2mBm401RQFjmx7ojCfUTRs10gx15JA02CSJz68FbdAYDw0D5VEBECRBRgNhf8asA__&Key-Pair-Id=K15QRJLYKIFSLZ
+Resolving download.llamameta.net (download.llamameta.net)... 54.192.18.89, 54.192.18.67, 54.192.18.110
+Connecting to download.llamameta.net (download.llamameta.net)|54.192.18.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102 [application/json]
+Saving to: ‘./llama-2-7b/params.json’
+
+./llama-2-7b/params.jso 100%[===============================>]     102  --.-KB/s    in 0s      
+
+2023-07-25 17:22:59 (2.26 MB/s) - ‘./llama-2-7b/params.json’ saved [102/102]
+
+--2023-07-25 17:22:59--  https://download.llamameta.net/llama-2-7b/checklist.chk?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiPz9RJ1FcdTAwMTJcXD8iLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkwMzYyNTM2fX19XX0_&Signature=aqmuAYs3MpWTcBT4ppClMOMjVplCCpqlPDat-ZfZFhMZC5Nf1NvIsfT7jjM%7EVeNxscLTSZ7HGZg9NVjcPuTSgz6GARBe1-5gBRjsdn2Jq63w8CB6rGPe9R4MTukf5ejDIvYPaphxwlLc3IDSR7TABS7vTo3UzBFWR3eIb9qNL-lboHnZM5c2UHC1NmB0rbCPifg1ERMB765qb1ZSv2FBhQnCs7QpEJQyOAuM4%7ExWN-SFTeJ1q1EmIgEWJbdGEoAzq9qwv4UE1TCQ0qrHGc6wNG2mBm401RQFjmx7ojCfUTRs10gx15JA02CSJz68FbdAYDw0D5VEBECRBRgNhf8asA__&Key-Pair-Id=K15QRJLYKIFSLZ
+Resolving download.llamameta.net (download.llamameta.net)... 54.192.18.67, 54.192.18.110, 54.192.18.89
+Connecting to download.llamameta.net (download.llamameta.net)|54.192.18.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100 [binary/octet-stream]
+Saving to: ‘./llama-2-7b/checklist.chk’
+
+./llama-2-7b/checklist. 100%[===============================>]     100  --.-KB/s    in 0s      
+
+2023-07-25 17:23:00 (2.89 MB/s) - ‘./llama-2-7b/checklist.chk’ saved [100/100]
+
+Checking checksums
+consolidated.00.pth: OK
+params.json: OK
